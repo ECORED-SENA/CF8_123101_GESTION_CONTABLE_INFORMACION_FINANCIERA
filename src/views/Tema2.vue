@@ -58,7 +58,7 @@
                     p.text-small.mb-0.text-white El deterioro de valor de una propiedad de inversión hace referencia a la pérdida de dinero que puede presentar el bien por eventos imprevistos, disminuyendo el valor de este en la contabilidad.
 
                   .col-sm-auto
-                    a.boton.color-acento-botones(href="https://docs.google.com/document/d/1jVBfOd5V9GKLcxlabgO5ugooc6IHyGn5-JTTdtEkPMo/edit?usp=sharing" target="_blank")
+                    a.boton.color-acento-botones(href="downloads/anexos/deterioroPPYE2.pdf" target="_blank")
                       span.text-black Descargar
                       i.fas.fa-file-download.text-black
 
@@ -235,7 +235,7 @@
               p.text-small.mb-0.text-white propiedad de inversión.
 
             .col-sm-auto
-              a.boton.color-acento-botones(href="https://docs.google.com/document/d/1jVBfOd5V9GKLcxlabgO5ugooc6IHyGn5-JTTdtEkPMo/edit?usp=sharing" target="_blank")
+              a.boton.color-acento-botones(href="downloads/anexos/31_ES_RedBV2016_IAS40_PartA.pdf" target="_blank")
                 span.text-black Descargar
                 i.fas.fa-file-download.text-black
 

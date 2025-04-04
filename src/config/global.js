@@ -72,7 +72,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Propiedades de Inversión',
         desarrolloContenidos: true,
         subMenu: [
           {

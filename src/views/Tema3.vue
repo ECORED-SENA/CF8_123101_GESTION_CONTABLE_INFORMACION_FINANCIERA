@@ -115,8 +115,8 @@
               p.text-small.mb-0.text-white activos mantenidos para la venta.
 
             .col-sm-auto
-              a.boton.color-acento-botones(href="https://docs.google.com/document/d/1jVBfOd5V9GKLcxlabgO5ugooc6IHyGn5-JTTdtEkPMo/edit?usp=sharing" target="_blank")
-                span.text-black Descargar
+              a.boton.color-acento-botones(href="https://www.aplicaciones-mcit.gov.co/adjuntos/niif/50%20ES_RedBV2016_IFRS05_PartA.pdf" target="_blank")
+                span.text-black Ver
                 i.fas.fa-file-download.text-black
 
       

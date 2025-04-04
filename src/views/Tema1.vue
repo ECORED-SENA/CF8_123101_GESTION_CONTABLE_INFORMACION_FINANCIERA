@@ -523,7 +523,7 @@
               p.text-small.mb-0.text-white El deterioro del valor o las pérdidas de los elementos de propiedades, planta y equipo son hechos separables de las reclamaciones de pagos o compensaciones de terceros, así como, de cualquier compra posterior o construcción de activos que reemplacen a los citados elementos, y por ello se contabilizarán de forma separada, por tal motivo lo invitamos a consultar el siguiente enlace.
 
             .col-sm-auto
-              a.boton.color-acento-botones(href="https://docs.google.com/document/d/1jVBfOd5V9GKLcxlabgO5ugooc6IHyGn5-JTTdtEkPMo/edit?usp=sharing" target="_blank")
+              a.boton.color-acento-botones(href="downloads/anexos/deterioroPPYE.pdf" target="_blank")
                 span.text-black Descargar
                 i.fas.fa-file-download.text-black
 
@@ -833,7 +833,7 @@
               p.text-small.mb-0.text-white Propiedad planta y equipo.
     
             .col-sm-auto
-              a.boton.color-acento-botones(href="https://docs.google.com/document/d/1jVBfOd5V9GKLcxlabgO5ugooc6IHyGn5-JTTdtEkPMo/edit?usp=sharing" target="_blank")
+              a.boton.color-acento-botones(href="downloads/anexos/31_ES_RedBV2016_IAS40_PartA.pdf" target="_blank")
                 span.text-black Descargar
                 i.fas.fa-file-download.text-black
 

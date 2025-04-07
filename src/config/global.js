@@ -153,19 +153,28 @@ export default {
   },
   complementario: [
     {
-      tema: 'Investigación e innovación financiera y organizacional',
+      tema: 'Política contable PPYE',
       referencia:
-        'Servicio Nacional de Aprendizaje, SENA. (2018). Revista Finnova: Investigación e Innovación Financiera y Organizacional.',
-      tipo: 'Capítulo 1',
-      link: 'http://revistas.sena.edu.co/index.php/finn',
+        'International Accounting Standards Board (IASB). (2003). <em>NIC 16: Propiedades, Planta y Equipo</em>. Fundación IFRS.',
+      tipo: 'Página web',
+      link:
+        'https://www.ifrs.org/issued-standards/list-of-standards/ias-16-property-plant-and-equipment/',
     },
     {
-      tema: 'Contabilidad financiera',
+      tema: 'Política contable',
       referencia:
-        'Calixto Mendoza Roca, 2016 Contabilidad financiera, Universidad del Norte.',
-      tipo: 'Capítulo 3',
+        'International Accounting Standards Board (IASB). (2003). <em>NIC 40: Propiedades de Inversión</em>. Fundación IFRS.',
+      tipo: 'Página web',
       link:
-        'https://ebookcentral-proquest-com.bdigital.sena.edu.co/lib/senavirtualsp/reader.action?docID=4722180&query=activos+fijos',
+        'https://www.ifrs.org/issued-standards/list-of-standards/ias-40-investment-property/',
+    },
+    {
+      tema: 'Política contable',
+      referencia:
+        'International Accounting Standards Board (IASB). (2004). <em>NIIF 5: Activos No Corrientes Mantenidos para la Venta y Operaciones Discontinuadas</em>. Fundación IFRS.',
+      tipo: 'Página web',
+      link:
+        'https://www.ifrs.org/issued-standards/list-of-standards/ifrs-5-non-current-assets-held-for-sale-and-discontinued-operations/',
     },
   ],
   glosario: [

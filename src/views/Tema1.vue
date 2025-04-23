@@ -12,7 +12,7 @@
         .p-5
           .row.justify-content-center.align-items-center
             .col-lg-8
-              p.p-4.bg-t1-2 La Propiedad, Planta Y Equipo son bienes que poseen las empresas para su uso diario y con las cuales cuentan para realizar las actividades correspondientes al objeto social. Por otro lado, es importante hacer referencia a las políticas contables de la empresa que son los procedimientos o reglas a tener en cuenta por cada criterio generado, en este caso el reconocimiento, medición, presentación y revelación de Propiedad, Planta y Equipo. 
+              p.p-4.bg-t1-2 La propiedad, planta Y equipo son bienes que poseen las empresas para su uso diario y con los cuales cuentan para realizar las actividades correspondientes al objeto social. Por otro lado, es importante hacer referencia a las políticas contables de la empresa, que son los procedimientos o reglas a tener en cuenta por cada criterio generado, en este caso el reconocimiento, medición, presentación y revelación de propiedad, planta y equipo. 
             .col-lg-4.d-none.d-lg-block 
               figure
                 img(src='@/assets/curso/tema1/img1.png', alt='', style="width: 406px").m-auto
@@ -26,7 +26,7 @@
                 .col
                   h3.mb-0 Trámites legales para ejercer el comercio
 
-          p.mt-4 La Propiedad, Planta y Equipo son activos que tienen apariencia física, los cuales se adquieren para el desarrollo del objeto social o actividad de esta. La Propiedad, Planta y Equipo posee las siguientes características:
+          p.mt-4 La propiedad, planta y equipo son activos que tienen apariencia física, los cuales se adquieren para el desarrollo del objeto social o actividad de esta. La propiedad, planta y equipo posee las siguientes características:
 
           .row.justify-content-center.align-items-center
             .col-lg-7
@@ -41,7 +41,7 @@
 
                 li.d-flex
                   i.bg-icon-ul
-                  p.mb-0.ms-2 Son clasificados como activos no corriente o largo plazo.
+                  p.mb-0.ms-2 Son clasificados como activos no corriente o de largo plazo.
 
                 li.d-flex
                   i.bg-icon-ul
@@ -49,39 +49,39 @@
 
                 li.d-flex
                   i.bg-icon-ul
-                  p.mb-0.ms-2 De acuerdo con la generación de flujos de caja se clasifica en: Propiedad, Planta y Equipo (NIC 16), propiedades de inversión (NIC 40) y Activos fijos para la venta (NIIF 5).
+                  p.mb-0.ms-2 De acuerdo con la generación de flujos de caja, se clasifica en: propiedad, planta y equipo (NIC 16), propiedades de inversión (NIC 40) y Activos fijos para la venta (NIIF 5).
 
             .col-lg-5.d-none.d-lg-block 
               figure
                 img(src='@/assets/curso/tema1/img2.png', alt='', style="width: 500px").m-auto
 
-          p.mt-4 La Propiedad, Planta y Equipo cumple una función muy importante dentro de las empresas, debido a que sin estos activos fijos no se puede ejecutar las funciones correspondientes de acuerdo con el objeto social, puesto que son activos tangibles que tiene una entidad para su uso en la producción o en la comercialización de bienes y prestación de servicios, para arrendarlos a terceros o para propósitos administrativos; y, por ende, se utiliza más de un periodo.
+          p.mt-4 La propiedad, planta y equipo cumple una función muy importante dentro de las empresas, debido a que sin estos activos fijos no se pueden ejecutar las funciones correspondientes de acuerdo con el objeto social, puesto que son activos tangibles que tiene una entidad para su uso en la producción o en la comercialización de bienes y prestación de servicios, para arrendarlos a terceros o para propósitos administrativos; y, por ende, se utiliza más de un periodo.
 
     separador
     #t_1_1.titulo-segundo.color-acento-contenido
       h2 1.1  Política contable PPYE
 
-    p La Propiedad, Planta y Equipo (PPYE) se reconoce por su costo inicial, el cual incluye todos los desembolsos necesarios para poner el activo en condiciones de uso. Posteriormente, se mide al costo menos la depreciación acumulada y cualquier pérdida por deterioro. La depreciación se calcula de forma sistemática según la vida útil estimada de cada activo. Estos se dan de baja del balance cuando se venden, reemplazan o dejan de generar beneficios económicos.
+    p La propiedad, planta y equipo (PPYE) se reconoce por su costo inicial, el cual incluye todos los desembolsos necesarios para poner el activo en condiciones de uso. Posteriormente, se mide al costo menos la depreciación acumulada y cualquier pérdida por deterioro. La depreciación se calcula de forma sistemática según la vida útil estimada de cada activo. Estos se dan de baja del balance cuando se venden, reemplazan o dejan de generar beneficios económicos.
 
     .video.mb-5.mt-4
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/3KDDv2LrIcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/qYA9l_isNqw?si=Rf4bOSJkcDWbFjBu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido
-      h2 1.2 Compra de Propiedad, Planta y Equipo en moneda Local y moneda extranjera.
+      h2 1.2 Compra de propiedad, planta y equipo en moneda Local y moneda extranjera.
 
     .row.bg-t1-1
       .col-12
         .p-5
           .row.justify-content-center.align-items-center
             .col-lg-8
-              p.p-4.bg-t1-2 Al momento de adquirir un activo de Propiedad, Planta y Equipo se debe determinar el criterio de medición que se implementará de acuerdo con la política inicialmente planteada. Según la NIC 16, hace referencia al modelo del costo, lo que cuesta comprar el activo (máquina, equipo de oficina, computadores, bienes inmuebles, entre otros), más los costos asociados e impuestos no recuperables para poner en funcionamiento el activo. Igualmente, es importante revisar la clasificación de la propiedad planta y equipo según los años de vida útil establecidos en Colombia en la norma fiscal. 
+              p.p-4.bg-t1-2 Al momento de adquirir un activo de propiedad, planta y equipo, se debe determinar el criterio de medición que se implementará de acuerdo con la política inicialmente planteada. Según la NIC 16, hace referencia al modelo del costo, lo que cuesta comprar el activo (máquina, equipo de oficina, computadores, bienes inmuebles, entre otros), más los costos asociados e impuestos no recuperables para poner en funcionamiento el activo. Igualmente, es importante revisar la clasificación de la propiedad, planta y equipo según los años de vida útil establecidos en Colombia en la norma fiscal. 
 
             .col-lg-4.d-none.d-lg-block 
               figure
                 img(src='@/assets/curso/tema1/img3.png', alt='', style="width: 406px").m-auto
 
-          p.mt-4 Por ende, es indispensable hacer referencia a la ley 1819 del 2016 en el cual se modifica el artículo 137 del Estatuto Tributario en el que se establece lo siguiente:
+          p.mt-4 Por ende, es indispensable hacer referencia a la ley 1819 del 2016, en el cual se modifica el artículo 137 del Estatuto Tributario en el cual se establece lo siguiente:
 
           .row.justify-content-center.mt-4
             .col-lg-8
@@ -155,10 +155,10 @@
     
     p Sin embargo, según la norma internacional y la política contable definida por cada entidad los años de vida útil la establece la empresa, así mismo, el valor residual que es el valor recuperable una vez se haya depreciado totalmente el activo.
 
-    p #[b Por lo tanto, para ilustrar un poco la compra de Propiedad, Planta y Equipo se presenta el siguiente ejemplo:]
+    p #[b Por lo tanto, para ilustrar un poco la compra de propiedad, planta y equipo se presenta el siguiente ejemplo:]
 
     .row.mt-4.bg-t1-4.p-4
-      p La empresa ABC Ltda. responsable de IVA Compra una máquina para uso de la empresa por valor de $3.000.000 a la empresa Eléctricos S.A.S Responsable de IVA gran contribuyente, adicionalmente, se pagan fletes por $150.000 y servicio de instalación por valor de $350.000, los años de vida útil estipulados son de 10 años, se estima un desmantelamiento por $1.000.000 a una tasa de descuento de 9% E.A. 
+      p La empresa ABC Ltda. responsable de IVA compra una máquina para uso de la empresa por valor de $3.000.000 a la empresa Eléctricos S.A.S responsable de IVA gran contribuyente, además, se pagan fletes por $150.000 y servicio de instalación por valor de $350.000, los años de vida útil estipulados son de 10 años, se estima un desmantelamiento por $1.000.000 a una tasa de descuento de 9% E.A. 
 
       .row
         .col-lg-5
@@ -170,6 +170,9 @@
               thead
                 tr
                   th.text-center(colspan="2") RECONOCIMIENTO
+                tr
+                  th.text-center CONCEPTO
+                  th.text-center VALOR
               tbody
                 tr
                   td #[b Maquinaria ]
@@ -211,7 +214,7 @@
                   td.bg-t1-7 #[b CÓDIGO]
                   td.bg-t1-7  #[b CUENTA ]
                   td.bg-t1-7  #[b DEBE ]
-                  td.bg-t1-7  #[b HABER ]
+                  td.bg-t1-7  #[b CRÉDITO ]
                 tr
                   td #[b 152001]
                   td Maquinaria y equipo
@@ -236,7 +239,7 @@
 
     .row.mt-4.justify-content-center
       .col-lg-10
-        p.p-4.bg-t1-9 Así mismo, se debe reconocer la propiedad, planta y equipo que se adquiera en moneda extranjera haciendo la conversión a la moneda de presentación de los estados financieros, teniendo en cuenta la TRM (tasa representativa del mercado) en momento en el que ocurrió el hecho económico. 
+        p.p-4.bg-t1-9 Así mismo, se debe reconocer la propiedad, planta y equipo que se adquiera en moneda extranjera haciendo la conversión a la moneda de presentación de los estados financieros, teniendo en cuenta la TRM (tasa representativa del mercado) en el momento en el que ocurrió el hecho económico. 
 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido
@@ -257,7 +260,7 @@
           p.mt-4 #[b Ejemplo]
 
           .row.justify-content-center.bg-t1-10.p-5
-            p La empresa ABC Ltda. responsable de IVA Compra una máquina en el exterior para uso de la empresa por valor de USD 5.000, en la fecha de la compra la tasa de cambio es de $3.500, pero el pago de la máquina se hace cuando se reciba en Colombia y esté dispuesta para ser usada, en ese momento el valor del dólar es $3.750.
+            p La empresa ABC Ltda., responsable de IVA compra una máquina en el exterior para uso de la empresa por valor de USD 5.000, en la fecha de la compra la tasa de cambio es de $3.500, pero el pago de la máquina se hace cuando se reciba en Colombia y esté dispuesta para ser usada, en ese momento el valor del dólar es $3.750.
 
             p #[b Medición inicial]
             .col-lg-6
@@ -308,7 +311,7 @@
         .p-5
           .row.justify-content-center.align-items-center
             .col-lg-8.p-4.bg-t1-2
-              p El Desmantelamiento o retiro es una provisión que se hace al momento de la medición inicial, que es lo que cuesta soltar las piezas de una máquina, derribar un edificio o una construcción en un futuro cuando se termine su vida útil. Esto hace referencia a la Rehabilitación del lugar donde se usó el activo, dejando nuevamente habilitado el espacio para construir o instalar una nueva máquina, generando un costo para la empresa, el cual debe reconocerse contablemente. En el siguiente caso se puede observar el cálculo del valor:
+              p El desmantelamiento o retiro es una provisión que se hace al momento de la medición inicial, que es lo que cuesta soltar las piezas de una máquina, derribar un edificio o una construcción en un futuro cuando se termine su vida útil. Esto hace referencia a la Rehabilitación del lugar donde se usó el activo, dejando nuevamente habilitado el espacio para construir o instalar una nueva máquina, generando un costo para la empresa, el cual debe reconocerse contablemente. En el siguiente caso se puede observar el cálculo del valor:
 
             .col-lg-4.d-none.d-lg-block
               figure
@@ -388,7 +391,7 @@
                       td.bg-t1-8 $ $50.000.000 
 
     .row.mt4
-      p La Depreciación es un concepto muy importante a tener en cuenta dentro del reconocimiento y medición de la propiedad, planta y equipo, que es la pérdida de valor que sufre un bien por su uso. Por ende, cada activo debe tener estipulado sus años de vida útil. Sin embargo, puede ocurrir también el deterioro (pérdida) por un factor externo, por ejemplo: un accidente de un vehículo, daños de vías donde esté ubicado el bien inmueble.
+      p La depreciación es un concepto muy importante a tener en cuenta dentro del reconocimiento y medición de la propiedad, planta y equipo, que es la pérdida de valor que sufre un bien por su uso. Por ende, cada activo debe tener estipulado sus años de vida útil. Sin embargo, puede ocurrir también el deterioro (pérdida) por un factor externo, por ejemplo: un accidente de un vehículo, daños de vías donde esté ubicado el bien inmueble.
 
       p #[b A continuación, se desarrolla la depreciación anual del ejemplo anterior:]
 
@@ -519,7 +522,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1(style="color: #FD9826 !important") Deterioro de Propiedad, Planta y Equipo
+              h4.mb-1(style="color: #FD9826 !important") Deterioro de propiedad, planta y equipo
               p.text-small.mb-0.text-white El deterioro del valor o las pérdidas de los elementos de propiedades, planta y equipo son hechos separables de las reclamaciones de pagos o compensaciones de terceros, así como, de cualquier compra posterior o construcción de activos que reemplacen a los citados elementos, y por ello se contabilizarán de forma separada, por tal motivo lo invitamos a consultar el siguiente enlace.
 
             .col-sm-auto
@@ -606,8 +609,8 @@
                         p Depreciación: $1.200.000
                         p Deterioro: $500.000
                         p Valor residual: $1.300.000
-                        p 159902 Deterioro computador $500.000
-                        p 519801 Deterioro $500.000 
+                        p 159902 deterioro computador $500.000
+                        p 519801 deterioro $500.000 
 
                     .col-xl-auto.pe-xl-0.mb-4.mb-xl-0.d-flex.d-none.d-lg-block
                       figure.m-0.p-0.w-100.h-100.d-flex
@@ -654,7 +657,7 @@
 
     p.p-4.bg-t1-12 #[b Reconocimiento] al momento de reconocer un bien como propiedad, planta y equipo se debe identificar la definición del activo, es decir, que a futuro genere beneficios económicos de la utilización de este dentro de la empresa, además, debe cumplir con la condición de que el precio de ese activo es fiable. 
 
-    p.p-4.bg-t1-12 #[b Medición inicial] en los bienes de Propiedad, Planta y E quipo se debe utilizar el criterio de medición al costo, en los cuales se debe tener presente no solo el valor de compra del activo, sino también, los aranceles de importación, impuestos no recuperables, transportes, asesorías, desmantelamiento y demás costos en los que se incurra para poner en funcionamiento el activo. 
+    p.p-4.bg-t1-12 #[b Medición inicial] en los bienes de propiedad, planta y equipo se debe utilizar el criterio de medición al costo, en los cuales se debe tener presente no solo el valor de compra del activo, sino también, los aranceles de importación, impuestos no recuperables, transportes, asesorías, desmantelamiento y demás costos en los que se incurra para poner en funcionamiento el activo. 
 
     .row.p-4.bg-t1-12.justify-content-center
       p #[b Medición posterior] después de estar usando un bien y disminución de su vida útil se puede medir con los siguientes criterios: 
@@ -781,7 +784,7 @@
       .col-lg-11
         .row.p-5.bg-t1-14.justify-content-center
           p
-          p.mt-4 #[b Modelo de revaluación:] cuando un activo es reconocido valor razonable y varía el precio de este, se revalúa tomando el valor razonable menos la depreciación y deterioros que se presentaron, este modelo se debe estar aplicando constantemente para que la información contable sea fiable y oportuna. 
+          p.mt-4 #[b Modelo de revaluación:] cuando un activo es reconocido un valor razonable y varía el precio de este, se revalúa tomando el valor razonable menos la depreciación y deterioros que se presentaron, este modelo se debe estar aplicando constantemente para que la información contable sea fiable y oportuna. 
 
           .col-lg-8 
             .row.bg-t1-9.p-4 

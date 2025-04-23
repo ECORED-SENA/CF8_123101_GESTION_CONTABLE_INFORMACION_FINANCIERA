@@ -13,7 +13,7 @@
           .row.align-items-center
             .col-lg-8
               .row.p-4.bg-t1-2 
-                p Los activos no corrientes mantenidos para la venta serán clasificados por la entidad, si su importe en libros se recuperará fundamentalmente a través de una transacción de venta a diferencia de activos que tienen uso continuado los cuales tienen otra finalidad. 
+                p Los activos no corrientes mantenidos para la venta serán clasificados por la entidad, si su importe en libros se recuperará fundamentalmente a través de una transacción de venta a diferencia de activos que tienen uso continuos los cuales tienen otra finalidad. 
 
                 p Para efectuar la clasificación anterior, el activo debe estar a disposición y en condiciones actuales para su venta inmediata sujeto a los términos usuales y habituales para la venta y negociado razonablemente; este debe ser vendido en menos de un año.
             .col-lg-4.d-none.d-lg-block
@@ -29,24 +29,19 @@
               :style="{'background-image': `url(${require('@/assets/curso/tema3/img2.png')})`}"
             )
             .bloque-texto-g__texto.p-4
-              p.mb-0 La Política contable de cualquier activo establece las características de reconocimiento, medición inicial y posterior, presentación y revelación de la información contable y financiera de los activos que posee la entidad al cierre del periodo contable. Además, debe cumplir los requerimientos para ser clasificación, según la NIIF 5 “activos no corrientes mantenidos para la venta” se debe reconocer si el valor de esos activos se recupera por medio de ventas y no por uso de este. Igualmente, se debe determinar el criterio de medición establecido en la norma.
+              p.mb-0 La política contable de cualquier activo establece las características de reconocimiento, medición inicial y posterior, presentación y revelación de la información contable y financiera de los activos que posee la entidad al cierre del periodo contable. Además, debe cumplir los requerimientos para ser clasificación, según la NIIF 5 “activos no corrientes mantenidos para la venta” se debe reconocer si el valor de esos activos se recupera por medio de ventas y no por uso de este. Igualmente, se debe determinar el criterio de medición establecido en la norma.
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido
       h2 3.2 Reconocimiento, medición, presentación y revelación.
 
-    p La Política contable de cualquier activo establece las características de reconocimiento, medición inicial y posterior, presentación y revelación de la información contable y financiera de los activos que posee la entidad al cierre del periodo contable. Además, debe cumplir los requerimientos para ser clasificación, según la NIIF 5 “activos no corrientes mantenidos para la venta” se debe reconocer si el valor de esos activos se recupera por medio de ventas y no por uso de este. Igualmente, se debe determinar el criterio de medición establecido en la norma.
-
     .row.bg-t1-12.p-4
-      p #[b Reconocimiento:] la propiedad de inversión se reconoce cuando genere beneficios económicos en el futuro y el costo de esa propiedad de inversión sea confiable. Cabe resaltar, que los costos adicionales en que se incurran son reconocidos como mayor valor del bien, excepto los mantenimientos de estas propiedades que no son reconocidos en el activo, sino en el gasto.
+      p #[b Reconocimiento:] los activos fijos disponibles para la venta se reconocen en el momento de su clasificación, después de haber cumplido con los requisitos del literal 8 de la NIIF 5, y su valor contable se recuperará, a través de la venta.
 
       p Los activos que se encuentran mantenidos para la venta NO serán objeto de depreciación, mientras el mismo esté clasificado con esas características.
 
-    .row.bg-t1-12.p-4.mt-4
-      p #[b Reconocimiento:] la propiedad de inversión se reconoce cuando genere beneficios económicos en el futuro y el costo de esa propiedad de inversión sea confiable. Cabe resaltar, que los costos adicionales en que se incurran son reconocidos como mayor valor del bien, excepto los mantenimientos de estas propiedades que no son reconocidos en el activo, sino en el gasto.
-
     .row.bg-t1-12.p-5.mt-4
-      p #[b Medición:]  Una entidad medirá sus activos no corrientes mantenidos para la venta, al menor valor entre su valor en libros y su valor razonable, menos los gastos para ser vendidos. Es decir, se debe reclasificar al menor valor, además, los activos se deben presentar de manera separada en los estados financieros. Por último, es importante conocer que este tipo de activos el valor se recupera con la venta y no con su uso. 
+      p #[b Medición:]  una entidad medirá sus activos no corrientes mantenidos para la venta, al menor valor entre su valor en libros y su valor razonable, menos los gastos para ser vendidos. Es decir, se debe reclasificar al menor valor, además, los activos se deben presentar de manera separada en los estados financieros. Por último, es importante conocer que este tipo de activos el valor se recupera con la venta y no con su uso. 
       .row.justify-content-center.bg-t1-10.p-5.align-items-center
             
         p.mt-4 #[b Ejemplo]
@@ -80,7 +75,7 @@
             img(src='@/assets/curso/tema3/img3.png', alt='', style="width: 190px")
 
     .row.bg-t1-12.p-5.mt-4
-      p #[b Operaciones Discontinuadas] Son flujos u operaciones que se pueden distinguir claramente de otros flujos u operaciones, si estos se clasifican como mantenidos para la venta y se manejan como operaciones discontinuadas, es decir, aquellos activos de la entidad que han sido clasificados como mantenidos para la venta.
+      p #[b Operaciones discontinuadas] Son flujos u operaciones que se pueden distinguir claramente de otros flujos u operaciones, si estos se clasifican como mantenidos para la venta y se manejan como operaciones discontinuadas, es decir, aquellos activos de la entidad que han sido clasificados como mantenidos para la venta.
 
       .row.justify-content-center.bg-t1-10.p-5.align-items-center
 
@@ -96,7 +91,7 @@
             img(src='@/assets/curso/tema3/img4.png', alt='', style="width: 295px")
 
     .row.bg-t1-12.p-5.mt-4
-      p #[b Información a Revelar] Una entidad presentará y revelará información que permita a los usuarios de los estados financieros evaluar los efectos financieros de las operaciones discontinuadas y las disposiciones de los activos no corrientes. (CTCP, 2016b)
+      p #[b Información a revelar] Una entidad presentará y revelará información que permita a los usuarios de los estados financieros evaluar los efectos financieros de las operaciones discontinuadas y las disposiciones de los activos no corrientes. (CTCP, 2016b)
 
       p Igualmente, una empresa presentará en sus estados de situación financiera un activo no corriente de manera separada como mantenidos para la venta, al igual que los pasivos involucrados por este concepto. 
 
@@ -115,7 +110,7 @@
               p.text-small.mb-0.text-white activos mantenidos para la venta.
 
             .col-sm-auto
-              a.boton.color-acento-botones(href="https://www.aplicaciones-mcit.gov.co/adjuntos/niif/50%20ES_RedBV2016_IFRS05_PartA.pdf" target="_blank")
+              a.boton.color-acento-botones(href="http://www.aplicaciones-mcit.gov.co/adjuntos/niif/50%20ES_RedBV2016_IFRS05_PartA.pdf" target="_blank")
                 span.text-black Ver
                 i.fas.fa-file-download.text-black
 

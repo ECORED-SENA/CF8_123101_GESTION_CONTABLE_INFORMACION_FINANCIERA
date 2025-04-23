@@ -9,7 +9,7 @@
 
     .row.align-items-center
       .col-lg-8
-        p.p-4.bg-t1-2 Son activos de los cuales se espera obtener rendimientos a futuro, generando ingresos no operacionales para la empresa, como son el arriendo de los terrenos, edificios, casas, locales, entre otros. De estos, se obtiene una contraprestación en dinero que incrementa la economía de los propietarios, además, el terreno se valoriza. Por ende, a largo plazo, se obtiene una utilidad cuando el activo es vendido. Por esto, la importancia que revisten las inversiones no solo en las empresas, sino también, en las personas naturales, que, para muchos es su actividad diaria, igualmente, algunas personas piensan que invertir es un riesgo, aunque en realidad es una oportunidad para crecer financieramente. 
+        p.p-4.bg-t1-2 Son activos de los cuales se espera obtener rendimientos a futuro, generando ingresos no operacionales para la empresa, como son el arriendo de los terrenos, edificios, casas, locales, entre otros. De estos, se obtiene una contraprestación en dinero que incrementa la economía de los propietarios; además, el terreno se valoriza. Por ende, a largo plazo, se obtiene una utilidad cuando el activo es vendido. Por esto, la importancia que revisten las inversiones, no solo en las empresas, sino también, en las personas naturales, que. para muchos es su actividad diaria igualmente, algunas personas piensan que invertir es un riesgo, aunque en realidad es una oportunidad para crecer financieramente. 
       .col-lg-4.d-none.d-lg-block
         figure
           img(src='@/assets/curso/tema2/img1.png', alt='', style="width: 295px").m-auto
@@ -36,7 +36,7 @@
                 img(src='@/assets/curso/tema2/img3.png', alt='', style="width: 400px").m-auto
 
             .col-lg-8
-              p.p-4.bg-t1-10 La medición inicial se realiza aplicando el modelo del costo y en la medición posterior se efectúa a valor razonable, con cambios en el resultado, que afectan la utilidad del ejercicio. Sin embargo, en las propiedades de inversión se puede establecer en la política contable, el criterio de medición al costo en casos específicos donde sea imposible medir a valor razonable. Es importante hacer referencia a que la norma solicita que todas las entidades midan a valor razonable, sin embargo, esto no es una obligación, pero si se debe tener presente el mejor criterio que beneficie a la entidad. Por último, se debe tener en cuenta que, al momento de vender una propiedad de inversión, se reconoce a valor razonable, sin importar el criterio de medición establecido para la empresa.
+              p.p-4.bg-t1-10 La medición inicial se realiza aplicando el modelo del costo y en la medición posterior se efectúa a valor razonable, con cambios en el resultado, que afectan la utilidad del ejercicio. Sin embargo, en las propiedades de inversión se puede establecer en la política contable el criterio de medición al costo en casos específicos donde sea imposible medir a valor razonable. Es importante hacer referencia a que la norma solicita que todas las entidades midan a valor razonable, sin embargo, esto no es una obligación, pero sí se debe tener presente el mejor criterio que beneficie a la entidad. Por último, se debe tener en cuenta que, al momento de vender una propiedad de inversión, se reconoce a valor razonable, sin importar el criterio de medición establecido para la empresa.
 
           .row.mb-2.ms-0.mt-4
             .col-auto.bg-c3(data-aos="fade-left")
@@ -111,7 +111,7 @@
                       td.text-center(style="background-color: #F8D7B0 !important") #[b CÓDIGO ]
                       td.text-center(style="background-color: #F8D7B0 !important") #[b CUENTA ]
                       td.text-center(style="background-color: #F8D7B0 !important") #[b DEBE ]
-                      td.text-center(style="background-color: #F8D7B0 !important") #[b HABER ]
+                      td.text-center(style="background-color: #F8D7B0 !important") #[b CRÉDITO ]
                     tr
                       td.text-center #[b 150405]
                       td.text-center Terrenos urbanos
@@ -119,9 +119,14 @@
                       td.text-center #[b -]
                     tr
                       td.bg-t1-8.text-center #[b 151610]
-                      td.bg-t1-8 Bodega
+                      td.bg-t1-8.text-center Bodega
                       td.bg-t1-8.text-center  $ 46.559.024
                       td.bg-t1-8.text-center #[b -]
+                    tr
+                      td.text-center #[b 233505]
+                      td.text-center Costos y gastos por pagar
+                      td.text-center 
+                      td.text-center #[b $ 50.000.000]
 
           p.mt-4 Pasado un año la bodega sufre un deterioro por inseguridad en el sector y pierde valor por $5.000.000. Se solicita realizar la medición posterior del activo. 
 
@@ -137,8 +142,8 @@
                         p.mb-0 Deterioro:                                    $5.000.000
                         p Valor actual:                               $39.321.073
                         
-                        p.mb-0 159901 Deterioro Bodega       $5.000.000
-                        p.mb-0 519801 Deterioro                      $5.000.000 
+                        p.mb-0 159901 deterioro bodega       $5.000.000
+                        p.mb-0 519801 deterioro                      $5.000.000 
 
                     .col-xl-auto.pe-xl-0.mb-4.mb-xl-0.d-flex.d-none.d-lg-block
                       figure.m-0.p-0.w-100.h-100.d-flex

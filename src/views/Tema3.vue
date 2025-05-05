@@ -33,7 +33,7 @@
 
     separador
     #t_3_1.titulo-segundo.color-acento-contenido
-      h2 3.2 Reconocimiento, medición, presentación y revelación.
+      h2 3.2 Reconocimiento, medición, presentación y revelación
 
     .row.bg-t1-12.p-4
       p #[b Reconocimiento:] los activos fijos disponibles para la venta se reconocen en el momento de su clasificación, después de haber cumplido con los requisitos del literal 8 de la NIIF 5, y su valor contable se recuperará, a través de la venta.
@@ -41,10 +41,11 @@
       p Los activos que se encuentran mantenidos para la venta NO serán objeto de depreciación, mientras el mismo esté clasificado con esas características.
 
     .row.bg-t1-12.p-5.mt-4
-      p #[b Medición:]  una entidad medirá sus activos no corrientes mantenidos para la venta, al menor valor entre su valor en libros y su valor razonable, menos los gastos para ser vendidos. Es decir, se debe reclasificar al menor valor, además, los activos se deben presentar de manera separada en los estados financieros. Por último, es importante conocer que este tipo de activos el valor se recupera con la venta y no con su uso. 
+      p #[b Medición:]  una entidad medirá sus activos no corrientes mantenidos para la venta, al menor valor entre su valor en libros y su valor razonable, menos los gastos para ser vendidos. Es decir, se debe reclasificar al menor valor, además, los activos se deben presentar de manera separada en los estados financieros. Por último, es importante conocer que este tipo de activos el valor se recupera con la venta y no con su uso.
+
       .row.justify-content-center.bg-t1-10.p-5.align-items-center
             
-        p.mt-4 #[b Ejemplo]
+        p.mt-4 #[b Ejemplo:]
 
         p Se compra una casa por valor de $100.000.000, para venderla posteriormente
 
@@ -56,31 +57,31 @@
             table.table.table-bordered
               tbody
                 tr
-                  td(style="background-color: #F8D7B0 !important") #[b Código]
-                  td(style="background-color: #F8D7B0 !important") #[b Cuenta]
-                  td(style="background-color: #F8D7B0 !important") #[b Débito]
-                  td(style="background-color: #F8D7B0 !important") #[b Crédito]
+                  td.text-center(style="background-color: #F8D7B0 !important") #[b Código]
+                  td.text-center(style="background-color: #F8D7B0 !important") #[b Cuenta]
+                  td.text-center(style="background-color: #F8D7B0 !important") #[b Débito]
+                  td.text-center(style="background-color: #F8D7B0 !important") #[b Crédito]
                 tr
-                  td #[b 151601]
+                  td 151601
                   td Casa para venta
-                  td $ 100.000.000 
-                  td $ 45.000.000
+                  td.text-end $ 100.000.000 
+                  td.text-end $ 0
                 tr
-                  td.bg-t1-8 #[b 233505]
+                  td.bg-t1-8 233505
                   td.bg-t1-8 Costos y gastos por pagar
-                  td.bg-t1-8 Terreno
-                  td.bg-t1-8 $ 100.000.000
+                  td.bg-t1-8.text-end $ 0
+                  td.bg-t1-8.text-end $ 100.000.000
         .col-lg-4.d-none.d-lg-block
           figure
             img(src='@/assets/curso/tema3/img3.png', alt='', style="width: 190px")
 
     .row.bg-t1-12.p-5.mt-4
-      p #[b Operaciones discontinuadas] Son flujos u operaciones que se pueden distinguir claramente de otros flujos u operaciones, si estos se clasifican como mantenidos para la venta y se manejan como operaciones discontinuadas, es decir, aquellos activos de la entidad que han sido clasificados como mantenidos para la venta.
+      p #[b Operaciones discontinuadas.] Son flujos u operaciones que se pueden distinguir claramente de otros flujos u operaciones, si estos se clasifican como mantenidos para la venta y se manejan como operaciones discontinuadas, es decir, aquellos activos de la entidad que han sido clasificados como mantenidos para la venta.
 
       .row.justify-content-center.bg-t1-10.p-5.align-items-center
 
         .col-lg-8     
-          p.mt-4 #[b Ejemplo]
+          p.mt-4 #[b Ejemplo:]
 
           p Se tiene un número de tiendas de ropa, pero se decide cerrar una de ellas, todos los activos que están relacionados con esa tienda los podemos clasificar como mantenidos para la venta y los flujos de efectivo y operaciones que sigan teniendo esa tienda se continúan manejando como operaciones discontinuadas.
 
@@ -91,7 +92,7 @@
             img(src='@/assets/curso/tema3/img4.png', alt='', style="width: 295px")
 
     .row.bg-t1-12.p-5.mt-4
-      p #[b Información a revelar] Una entidad presentará y revelará información que permita a los usuarios de los estados financieros evaluar los efectos financieros de las operaciones discontinuadas y las disposiciones de los activos no corrientes. (CTCP, 2016b)
+      p #[b Información a revelar.] Una entidad presentará y revelará información que permita a los usuarios de los estados financieros evaluar los efectos financieros de las operaciones discontinuadas y las disposiciones de los activos no corrientes. (CTCP, 2016b)
 
       p Igualmente, una empresa presentará en sus estados de situación financiera un activo no corriente de manera separada como mantenidos para la venta, al igual que los pasivos involucrados por este concepto. 
 

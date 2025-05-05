@@ -64,11 +64,11 @@
     p La propiedad, planta y equipo (PPYE) se reconoce por su costo inicial, el cual incluye todos los desembolsos necesarios para poner el activo en condiciones de uso. Posteriormente, se mide al costo menos la depreciación acumulada y cualquier pérdida por deterioro. La depreciación se calcula de forma sistemática según la vida útil estimada de cada activo. Estos se dan de baja del balance cuando se venden, reemplazan o dejan de generar beneficios económicos.
 
     .video.mb-5.mt-4
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/qYA9l_isNqw?si=Rf4bOSJkcDWbFjBu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/UKfzqh6BdCw?si=cSrFu-Yj663X-3zS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido
-      h2 1.2 Compra de propiedad, planta y equipo en moneda Local y moneda extranjera.
+      h2 1.2 Compra de propiedad, planta y equipo en moneda Local y moneda extranjera
 
     .row.bg-t1-1
       .col-12
@@ -96,53 +96,53 @@
                     th TASA DE DEPRECIACIÓN FISCAL ANUAL %
                 tbody
                   tr(style="background-color: #FFF")
-                    td #[b Construcciones y edificaciones]
-                    td 2.22%
+                    td.text-start #[b Construcciones y edificaciones]
+                    td 2.22 %
                   tr(style="background-color: #F6F6F6")
-                    td #[b Acueducto, planta y redes]
-                    td 2.50%
+                    td.text-start #[b Acueducto, planta y redes]
+                    td 2.50 %
                   tr(style="background-color: #FFF")
-                    td #[b Vías de comunicación]
-                    td 2.50%
+                    td.text-start #[b Vías de comunicación]
+                    td 2.50 %
                   tr(style="background-color: #F6F6F6")
-                    td #[b Flota y equipo aéreo]
-                    td 3.33%
+                    td.text-start #[b Flota y equipo aéreo]
+                    td 3.33 %
                   tr(style="background-color: #FFF")
-                    td #[b Flota y equipo férreo]
-                    td 5.00%
+                    td.text-start #[b Flota y equipo férreo]
+                    td 5.00 %
                   tr(style="background-color: #F6F6F6")
-                    td #[b Flota y equipo fluvial]
-                    td 6.67%
+                    td.text-start #[b Flota y equipo fluvial]
+                    td 6.67 %
                   tr(style="background-color: #FFF")
-                    td #[b Armamento y equipo de vigilancia]
-                    td 10.00%
+                    td.text-start #[b Armamento y equipo de vigilancia]
+                    td 10.00 %
                   tr(style="background-color: #F6F6F6")
-                    td #[b Equipo eléctrico]
-                    td 10.00%
+                    td.text-start #[b Equipo eléctrico]
+                    td 10.00 %
                   tr(style="background-color: #FFF")
-                    td #[b Flota y equipo de transporte terrestre]
-                    td 10.00%
+                    td.text-start #[b Flota y equipo de transporte terrestre]
+                    td 10.00 %
                   tr(style="background-color: #F6F6F6")
-                    td #[b Maquinaria, equipos ]
-                    td 10.00%
+                    td.text-start #[b Maquinaria, equipos ]
+                    td 10.00 %
                   tr(style="background-color: #FFF")
-                    td #[b Muebles y Enseres]
-                    td 10.00%
+                    td.text-start #[b Muebles y Enseres]
+                    td 10.00 %
                   tr(style="background-color: #F6F6F6")
-                    td #[b Equipo Médico Científico]
-                    td 12.50%
+                    td.text-start #[b Equipo Médico Científico]
+                    td 12.50 %
                   tr(style="background-color: #FFF")
-                    td #[b Envases, empaques y herramientas]
-                    td 20.00%
+                    td.text-start #[b Envases, empaques y herramientas]
+                    td 20.00 %
                   tr(style="background-color: #F6F6F6")
-                    td #[b Equipo de computación]
-                    td 20.00%
+                    td.text-start #[b Equipo de computación]
+                    td 20.00 %
                   tr(style="background-color: #FFF")
-                    td #[b Redes de procesamiento de datos]
-                    td 20.00%
+                    td.text-start #[b Redes de procesamiento de datos]
+                    td 20.00 %
                   tr(style="background-color: #F6F6F6")
-                    td #[b Equipo de Comunicación]
-                    td 20.00%
+                    td.text-start #[b Equipo de Comunicación]
+                    td 20.00 %
 
           .row.ms-0.mt-4
             .col-auto.bg-c3(data-aos="fade-left")
@@ -158,7 +158,7 @@
     p #[b Por lo tanto, para ilustrar un poco la compra de propiedad, planta y equipo se presenta el siguiente ejemplo:]
 
     .row.mt-4.bg-t1-4.p-4
-      p La empresa ABC Ltda. responsable de IVA compra una máquina para uso de la empresa por valor de $3.000.000 a la empresa Eléctricos S.A.S responsable de IVA gran contribuyente, además, se pagan fletes por $150.000 y servicio de instalación por valor de $350.000, los años de vida útil estipulados son de 10 años, se estima un desmantelamiento por $1.000.000 a una tasa de descuento de 9% E.A. 
+      p La empresa ABC Ltda. responsable de IVA compra una máquina para uso de la empresa por valor de $3.000.000 a la empresa Eléctricos S.A.S responsable de IVA gran contribuyente, además, se pagan fletes por $150.000 y servicio de instalación por valor de $350.000, los años de vida útil estipulados son de 10 años, se estima un desmantelamiento por $1.000.000 a una tasa de descuento de 9 % E.A. 
 
       .row
         .col-lg-5
@@ -176,16 +176,16 @@
               tbody
                 tr
                   td #[b Maquinaria ]
-                  td $ 3.000.000
+                  td.text-end $ 3.000.000
                 tr
                   td.bg-t1-8 #[b Fletes ]
-                  td.bg-t1-8 $ 150.000 
+                  td.bg-t1-8.text-end $ 150.000 
                 tr
-                  td #[b IVA 19%  ]
-                  td $ 598.500 
+                  td #[b IVA 19 %  ]
+                  td.text-end $ 598.500 
                 tr
-                  td.bg-t1-8 #[b RETEFUENTE 2,5% ]
-                  td.bg-t1-8 $ 78.750 
+                  td.bg-t1-8 #[b RETEFUENTE 2,5 % ]
+                  td.bg-t1-8.text-end $ 78.750 
 
           .titulo-sexto.color-acento-contenido.mb-3
             span Tabla 3. Costo estimado de desmantelamiento
@@ -194,11 +194,11 @@
             table.table.table-bordered
               tbody
                 tr
-                  td(style="background-color: #F8D7B0 !important") #[b Cálculo ]
-                  td(style="background-color: #F8D7B0 !important") #[b Valor]
+                  td.text-center(style="background-color: #F8D7B0 !important") #[b Cálculo ]
+                  td.text-center(style="background-color: #F8D7B0 !important") #[b Valor]
                 tr
                   td VP = VF / (1 + i)^n
-                  td $422.411
+                  td.text-end $ 422.411
 
         .col-lg-7
           .titulo-sexto.color-acento-contenido.mb-3
@@ -211,30 +211,30 @@
                   th.text-center(colspan="4") MEDICIÓN INICIAL
               tbody
                 tr
-                  td.bg-t1-7 #[b CÓDIGO]
-                  td.bg-t1-7  #[b CUENTA ]
-                  td.bg-t1-7  #[b DEBE ]
-                  td.bg-t1-7  #[b CRÉDITO ]
+                  td.bg-t1-7.text-center #[b CÓDIGO]
+                  td.bg-t1-7.text-center  #[b CUENTA ]
+                  td.bg-t1-7.text-center  #[b DEBE ]
+                  td.bg-t1-7.text-center  #[b CRÉDITO ]
                 tr
                   td #[b 152001]
                   td Maquinaria y equipo
-                  td $ 4.170.911
+                  td.text-end $ 4.170.911
                   td
                 tr
                   td.bg-t1-8 #[b 236540 ]
                   td.bg-t1-8 Retefuente
                   td.bg-t1-8
-                  td.bg-t1-8 $ 78.750 
+                  td.bg-t1-8.text-end $ 78.750 
                 tr
                   td #[b 299501]
                   td Prov desmantelamiento
                   td 
-                  td $ 422.411 
+                  td.text-end $ 422.411 
                 tr
                   td.bg-t1-8 #[b 233505]
                   td.bg-t1-8 Costos y gastos por pagar
                   td.bg-t1-8
-                  td.bg-t1-8 $ $   3.669.750 
+                  td.bg-t1-8.text-end $ 3.669.750 
           
 
     .row.mt-4.justify-content-center
@@ -243,7 +243,7 @@
 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido
-      h2 1.3 Ajuste de la diferencia en cambio.
+      h2 1.3 Ajuste de la diferencia en cambio
 
     .row.bg-t1-1
       .col-12
@@ -257,12 +257,11 @@
               figure
                 img(src='@/assets/curso/tema1/img4.png', alt='', style="width: 480px").m-auto
 
-          p.mt-4 #[b Ejemplo]
+          p.mt-4 #[b Ejemplo:]
 
           .row.justify-content-center.bg-t1-10.p-5
-            p La empresa ABC Ltda., responsable de IVA compra una máquina en el exterior para uso de la empresa por valor de USD 5.000, en la fecha de la compra la tasa de cambio es de $3.500, pero el pago de la máquina se hace cuando se reciba en Colombia y esté dispuesta para ser usada, en ese momento el valor del dólar es $3.750.
+            p La empresa ABC Ltda., responsable de IVA compra una máquina en el exterior para uso de la empresa por valor de USD 5.000, en la fecha de la compra la tasa de cambio es de $ 3.500, pero el pago de la máquina se hace cuando se reciba en Colombia y esté dispuesta para ser usada, en ese momento el valor del dólar es $ 3.750.
 
-            p #[b Medición inicial]
             .col-lg-6
               .titulo-sexto.color-acento-contenido.mb-3
                 span Tabla 5. Medición inicial de maquinaria adquirida en el exterior
@@ -271,14 +270,14 @@
                 table.table.table-bordered
                   tbody
                     tr
-                      td(style="background-color: #F8D7B0 !important") #[b Concepto]
-                      td(style="background-color: #F8D7B0 !important") #[b Valor]
+                      td.text-center(style="background-color: #F8D7B0 !important") #[b Concepto]
+                      td.text-center(style="background-color: #F8D7B0 !important") #[b Valor]
                     tr
                       td Maquinaria
-                      td $17.500.000
+                      td.text-end $ 17.500.000
                     tr
                       td.bg-t1-8 Acreedores del exterior
-                      td.bg-t1-8 $17.500.000
+                      td.bg-t1-8.text-end $ 17.500.000
 
               p.mt-2 El valor posterior de la máquina es de $18.750.000, se reconoce la diferencia en comparación con el costo inicial
 
@@ -289,14 +288,14 @@
                 table.table.table-bordered
                   tbody
                     tr
-                      td(style="background-color: #F8D7B0 !important") #[b Concepto]
-                      td(style="background-color: #F8D7B0 !important") #[b Valor]
+                      td.text-center(style="background-color: #F8D7B0 !important") #[b Concepto]
+                      td.text-center(style="background-color: #F8D7B0 !important") #[b Valor]
                     tr
                       td Gastos por diferencia en cambio
-                      td $1.250.000
+                      td.text-end $ 1.250.000
                     tr
                       td.bg-t1-8 Acreedores del exterior
-                      td.bg-t1-8 $1.250.000
+                      td.bg-t1-8.text-end $ 1.250.000
 
             .col-lg-6
               figure
@@ -311,16 +310,16 @@
         .p-5
           .row.justify-content-center.align-items-center
             .col-lg-8.p-4.bg-t1-2
-              p El desmantelamiento o retiro es una provisión que se hace al momento de la medición inicial, que es lo que cuesta soltar las piezas de una máquina, derribar un edificio o una construcción en un futuro cuando se termine su vida útil. Esto hace referencia a la Rehabilitación del lugar donde se usó el activo, dejando nuevamente habilitado el espacio para construir o instalar una nueva máquina, generando un costo para la empresa, el cual debe reconocerse contablemente. En el siguiente caso se puede observar el cálculo del valor:
+              p El desmantelamiento o retiro es una provisión que se hace al momento de la medición inicial, que es lo que cuesta soltar las piezas de una máquina, derribar un edificio o una construcción en un futuro cuando se termine su vida útil. Esto hace referencia a la Rehabilitación del lugar donde se usó el activo, dejando nuevamente habilitado el espacio para construir o instalar una nueva máquina, generando un costo para la empresa, el cual debe reconocerse contablemente. En el siguiente caso se puede observar el cálculo del valor.
 
             .col-lg-4.d-none.d-lg-block
               figure
                 img(src='@/assets/curso/tema1/img6.png', alt='', style="width: 480px").m-auto
 
-          p.mt-4 #[b Ejemplo]
+          p.mt-4 #[b Ejemplo:]
 
           .row.justify-content-center.bg-t1-10.p-5
-            p La empresa ABC SAS adquiere una oficina por valor de $50.000.000, el 10% corresponde a terrenos, y el resto es construcción, se estima un desmantelamiento de $5.000.000 a una tasa del 6% E.A. al finalizar su vida útil de 20 años.
+            p La empresa ABC SAS adquiere una oficina por valor de $50.000.000, el 10 % corresponde a terrenos, y el resto es construcción, se estima un desmantelamiento de $5.000.000 a una tasa del 6 % E.A. al finalizar su vida útil de 20 años.
 
             .col-lg-6
               .titulo-sexto.color-acento-contenido.mb-3
@@ -330,14 +329,14 @@
                 table.table.table-bordered
                   tbody
                     tr
-                      td(style="background-color: #F8D7B0 !important") #[b Concepto]
-                      td(style="background-color: #F8D7B0 !important") #[b Valor]
+                      td.text-center(style="background-color: #F8D7B0 !important") #[b Concepto]
+                      td.text-center(style="background-color: #F8D7B0 !important") #[b Valor]
                     tr
                       td Construcción
-                      td $45.000.000
+                      td.text-end $ 45.000.000
                     tr
                       td.bg-t1-8 Terreno
-                      td.bg-t1-8 $5.000.000
+                      td.bg-t1-8.text-end  $ 5.000.000
 
               p.mt-2 El valor posterior de la máquina es de $18.750.000, se reconoce la diferencia en comparación con el costo inicial
 
@@ -348,14 +347,14 @@
                 table.table.table-bordered
                   tbody
                     tr
-                      td(style="background-color: #F8D7B0 !important") #[b Cálculo]
-                      td(style="background-color: #F8D7B0 !important") #[b Valor]
+                      td.text-center(style="background-color: #F8D7B0 !important") #[b Cálculo]
+                      td.text-center(style="background-color: #F8D7B0 !important") #[b Valor]
                     tr
                       td VP = VF / (1 + i)^n
-                      td $1.250.000
+                      td.text-end  $ 1.250.000
                     tr
                       td.bg-t1-8 Acreedores del exterior
-                      td.bg-t1-8 $1.559.024
+                      td.bg-t1-8.text-end  $ 1.559.024
 
             .col-lg-6
               .titulo-sexto.color-acento-contenido.mb-3
@@ -365,30 +364,30 @@
                 table.table.table-bordered.bg-t1-6
                   tbody
                     tr
-                      td.bg-t1-7 #[b CÓDIGO]
-                      td.bg-t1-7  #[b CUENTA ]
-                      td.bg-t1-7  #[b DEBE ]
-                      td.bg-t1-7  #[b HABER ]
+                      td.bg-t1-7.text-center #[b CÓDIGO]
+                      td.bg-t1-7.text-center  #[b CUENTA ]
+                      td.bg-t1-7.text-center  #[b DEBE ]
+                      td.bg-t1-7.text-center  #[b HABER ]
                     tr
-                      td #[b 150405]
+                      td 150405
                       td Terrenos urbanos
-                      td $ 5.000.000 
-                      td
+                      td.text-end  $ 5.000.000 
+                      td.text-end $ 0
                     tr
-                      td.bg-t1-8 #[b 151610]
+                      td.bg-t1-8 151610
                       td.bg-t1-8 Oficina
-                      td.bg-t1-8 $ 46.559.024
-                      td.bg-t1-8 
+                      td.bg-t1-8.text-end  $ 46.559.024
+                      td.bg-t1-8.text-end $ 0 
                     tr
                       td 299501
                       td Prov desmantelamiento
                       td
-                      td $ $1.559.024 
+                      td.text-end  $ $1.559.024 
                     tr
                       td.bg-t1-8 233505
                       td.bg-t1-8 Costos y gastos por pagar
                       td.bg-t1-8
-                      td.bg-t1-8 $ $50.000.000 
+                      td.bg-t1-8.text-end  $ 50.000.000 
 
     .row.mt4
       p La depreciación es un concepto muy importante a tener en cuenta dentro del reconocimiento y medición de la propiedad, planta y equipo, que es la pérdida de valor que sufre un bien por su uso. Por ende, cada activo debe tener estipulado sus años de vida útil. Sin embargo, puede ocurrir también el deterioro (pérdida) por un factor externo, por ejemplo: un accidente de un vehículo, daños de vías donde esté ubicado el bien inmueble.
@@ -404,115 +403,115 @@
           table.table.table-bordered.bg-t1-6
             tbody
               tr
-                td.bg-t1-7 #[b PERIODO]
-                td.bg-t1-7 #[b DEPRECIACIÓN]
-                td.bg-t1-7 #[b DEPRECIACIÓN ACUMULADA]
-                td.bg-t1-7 #[b SALDO]
+                td.bg-t1-7.text-center #[b PERIODO]
+                td.bg-t1-7.text-center #[b DEPRECIACIÓN]
+                td.bg-t1-7.text-center #[b DEPRECIACIÓN ACUMULADA]
+                td.bg-t1-7.text-center #[b SALDO]
               tr
-                td #[b 0]
-                td.text-end #[b -]
-                td.text-end #[b -]
-                td.text-end 46.559.024
+                td.text-center #[b 0]
+                td.text-end #[b $ 0]
+                td.text-end #[b 0 $]
+                td.text-end $ 46.559.024
               tr
-                td.bg-t1-8 #[b 1]
-                td.text-end.bg-t1-8 #[b 2.327.951]
-                td.text-end.bg-t1-8 #[b 2.327.951]
-                td.text-end.bg-t1-8 44.231.072
+                td.bg-t1-8.text-center #[b 1]
+                td.text-end.bg-t1-8 #[b $ 2.327.951]
+                td.text-end.bg-t1-8 #[b $ 2.327.951]
+                td.text-end.bg-t1-8 $ 44.231.072
               tr
-                td #[b 2]
-                td.text-end #[b 2.327.951]
-                td.text-end #[b 4.655.902]
-                td.text-end 41.903.121
+                td.text-center #[b 2]
+                td.text-end #[b $ 2.327.951]
+                td.text-end #[b $ 4.655.902]
+                td.text-end $ 41.903.121
               tr
-                td.bg-t1-8 #[b 3]
-                td.text-end.bg-t1-8 #[b 2.327.951]
-                td.text-end.bg-t1-8 #[b 6.983.854]
-                td.text-end.bg-t1-8 39.575.170
+                td.bg-t1-8.text-center #[b 3]
+                td.text-end.bg-t1-8 #[b $ 2.327.951]
+                td.text-end.bg-t1-8 #[b $ 6.983.854]
+                td.text-end.bg-t1-8 $ 39.575.170
               tr
-                td #[b 4]
-                td.text-end #[b 2.327.951]
-                td.text-end #[b 9.311.805]
-                td.text-end 37.247.219
+                td.text-center #[b 4]
+                td.text-end #[b $ 2.327.951]
+                td.text-end #[b $ 9.311.805]
+                td.text-end $ 37.247.219
               tr
-                td.bg-t1-8 #[b 5]
-                td.text-end.bg-t1-8 #[b 2.327.951]
-                td.text-end.bg-t1-8 #[b 11.639.756]
-                td.text-end.bg-t1-8 34.919.268
+                td.bg-t1-8.text-center #[b 5]
+                td.text-end.bg-t1-8 #[b $ 2.327.951]
+                td.text-end.bg-t1-8 #[b $ 11.639.756]
+                td.text-end.bg-t1-8 $ 34.919.268
               tr
-                td #[b 6]
-                td.text-end #[b 2.327.951]
-                td.text-end #[b 13.967.707]
-                td.text-end 32.591.317
+                td.text-center #[b 6]
+                td.text-end #[b $ 2.327.951]
+                td.text-end #[b $ 13.967.707]
+                td.text-end $ 32.591.317
               tr
-                td.bg-t1-8 #[b 7]
-                td.text-end.bg-t1-8 #[b 2.327.951]
-                td.text-end.bg-t1-8 #[b 16.295.658]
-                td.text-end.bg-t1-8 30.263.365
+                td.bg-t1-8.text-center #[b 7]
+                td.text-end.bg-t1-8 #[b $ 2.327.951]
+                td.text-end.bg-t1-8 #[b $ 16.295.658]
+                td.text-end.bg-t1-8 $ 30.263.365
               tr
-                td #[b 8]
-                td.text-end #[b 2.327.951]
-                td.text-end #[b 18.623.609]
-                td.text-end 27.935.414
+                td.text-center #[b 8]
+                td.text-end #[b $ 2.327.951]
+                td.text-end #[b $ 18.623.609]
+                td.text-end $ 27.935.414
               tr
-                td.bg-t1-8 #[b 9]
-                td.text-end.bg-t1-8 #[b 2.327.951]
-                td.text-end.bg-t1-8 #[b 20.951.561]
-                td.text-end.bg-t1-8 25.607.463
+                td.bg-t1-8.text-center #[b 9]
+                td.text-end.bg-t1-8 #[b $ 2.327.951]
+                td.text-end.bg-t1-8 #[b $ 20.951.561]
+                td.text-end.bg-t1-8 $ 25.607.463
               tr
-                td #[b 10]
-                td.text-end #[b 2.327.951]
-                td.text-end #[b 23.279.512]
-                td.text-end 23.279.512
+                td.text-center #[b 10]
+                td.text-end #[b $ 2.327.951]
+                td.text-end #[b $ 23.279.512]
+                td.text-end $ 23.279.512
               tr
-                td.bg-t1-8 #[b 11]
-                td.text-end.bg-t1-8 #[b 2.327.951]
-                td.text-end.bg-t1-8 #[b 25.607.463]
-                td.text-end.bg-t1-8 20.951.561
+                td.bg-t1-8.text-center #[b 11]
+                td.text-end.bg-t1-8 #[b $ 2.327.951]
+                td.text-end.bg-t1-8 #[b $ 25.607.463]
+                td.text-end.bg-t1-8 $ 20.951.561
               tr
-                td #[b 12]
-                td.text-end #[b 2.327.951]
-                td.text-end #[b 27.935.414]
-                td.text-end 18.623.609
+                td.text-center #[b 12]
+                td.text-end #[b $ 2.327.951]
+                td.text-end #[b $ 27.935.414]
+                td.text-end $ 18.623.609
               tr
-                td.bg-t1-8 #[b 13]
-                td.text-end.bg-t1-8 #[b 2.327.951]
-                td.text-end.bg-t1-8 #[b 30.263.365]
-                td.text-end.bg-t1-8 16.295.658
+                td.bg-t1-8.text-center #[b 13]
+                td.text-end.bg-t1-8 #[b $ 2.327.951]
+                td.text-end.bg-t1-8 #[b $ 30.263.365]
+                td.text-end.bg-t1-8 $ 16.295.658
               tr
-                td #[b 14]
-                td.text-end #[b 2.327.951]
-                td.text-end #[b 32.591.317]
-                td.text-end 13.967.707
+                td.text-center #[b 14]
+                td.text-end #[b $ 2.327.951]
+                td.text-end #[b $ 32.591.317]
+                td.text-end $ 13.967.707
               tr
-                td.bg-t1-8 #[b 15]
-                td.text-end.bg-t1-8 #[b 2.327.951]
-                td.text-end.bg-t1-8 #[b 34.919.268]
-                td.text-end.bg-t1-8 11.639.756
+                td.bg-t1-8.text-center #[b 15]
+                td.text-end.bg-t1-8 #[b $ 2.327.951]
+                td.text-end.bg-t1-8 #[b $ 34.919.268]
+                td.text-end.bg-t1-8 $ 11.639.756
               tr
-                td #[b 16]
-                td.text-end #[b 2.327.951]
-                td.text-end #[b 37.247.219]
-                td.text-end 9.311.805
+                td.text-center #[b 16]
+                td.text-end #[b $ 2.327.951]
+                td.text-end #[b $ 37.247.219]
+                td.text-end $ 9.311.805
               tr
-                td.bg-t1-8 #[b 17]
-                td.text-end.bg-t1-8 #[b 2.327.951]
-                td.text-end.bg-t1-8 #[b 39.575.170]
-                td.text-end.bg-t1-8 6.983.854
+                td.bg-t1-8.text-center #[b 17]
+                td.text-end.bg-t1-8 #[b $ 2.327.951]
+                td.text-end.bg-t1-8 #[b $ 39.575.170]
+                td.text-end.bg-t1-8 $ 6.983.854
               tr
-                td #[b 18]
-                td.text-end #[b 2.327.951]
-                td.text-end #[b 41.903.121]
-                td.text-end 4.655.902
+                td.text-center #[b 18]
+                td.text-end #[b $ 2.327.951]
+                td.text-end #[b $ 41.903.121]
+                td.text-end $ 4.655.902
               tr
-                td.bg-t1-8 #[b 19]
-                td.text-end.bg-t1-8 #[b 2.327.951]
-                td.text-end.bg-t1-8 #[b 44.231.072]
-                td.text-end.bg-t1-8 2.327.951
+                td.bg-t1-8.text-center #[b 19]
+                td.text-end.bg-t1-8 #[b $ 2.327.951]
+                td.text-end.bg-t1-8 #[b $ 44.231.072]
+                td.text-end.bg-t1-8 $ 2.327.951
               tr
-                td #[b 20]
-                td.text-end #[b 2.327.951]
-                td.text-end #[b 46.559.024]
-                td.text-end #[b -]
+                td.text-center #[b 20]
+                td.text-end #[b $ 2.327.951]
+                td.text-end #[b $ 46.559.024]
+                td.text-end #[b $ 0]
 
 
     .tarjeta.bg-t1-11.p-4.mt-4
@@ -530,10 +529,10 @@
                 span.text-black Descargar
                 i.fas.fa-file-download.text-black
 
-    p.mt-4 #[b Ejemplo]
+    p.mt-4 #[b Ejemplo: ]
 
           .row.justify-content-center.bg-t1-10.p-5
-            p Se compra un computador por valor de $3.000.000 IVA incluido, para uso de la empresa, con 5 años de vida útil, transcurrido dos años el equipo se dejó caer del mueble y sufrió daños, el deterioro se estima en $500.000, reconozca el deterioro presentado. 
+            p Se compra un computador por valor de $ 3.000.000 IVA incluido, para uso de la empresa, con 5 años de vida útil, transcurrido dos años el equipo se dejó caer del mueble y sufrió daños, el deterioro se estima en $ 500.000, reconozca el deterioro presentado. 
 
             .col-lg-6
               .titulo-sexto.color-acento-contenido.mb-3
@@ -543,17 +542,17 @@
                 table.table.table-bordered
                   tbody
                     tr
-                      td(style="background-color: #F8D7B0 !important") #[b Código]
-                      td(style="background-color: #F8D7B0 !important") #[b Cuenta]
-                      td(style="background-color: #F8D7B0 !important") #[b Valor]
+                      td.text-center(style="background-color: #F8D7B0 !important") #[b Código]
+                      td.text-center(style="background-color: #F8D7B0 !important") #[b Cuenta]
+                      td.text-center(style="background-color: #F8D7B0 !important") #[b Valor]
                     tr
-                      td #[b 152801]
+                      td 152801
                       td COMPUTADOR
-                      td.text-center $3.000.000
+                      td.text-end $ 3.000.000
                     tr
-                      td.bg-t1-8 #[b 233505]
+                      td.bg-t1-8 233505
                       td.bg-t1-8 COSTOS Y GASTOS POR PAGAR
-                      td.bg-t1-8.text-center $3.000.000
+                      td.bg-t1-8.text-end $ 3.000.000
 
               .titulo-sexto.color-acento-contenido.mb-3
                 span Tabla 12. Cálculo de depreciación del computador (vida útil: 5 años)
@@ -567,35 +566,35 @@
                       td.text-center(style="background-color: #F8D7B0 !important") #[b DEPRECIACIÓN ACUMULADA]
                       td.text-center(style="background-color: #F8D7B0 !important") #[b SALDO]
                     tr
-                      td #[b 0]
-                      td.text-end #[b -]
-                      td.text-end #[b -]
-                      td.text-center $ 3.000.000 
+                      td.text-center #[b 0]
+                      td.text-end #[b $ 0]
+                      td.text-end #[b $ 0]
+                      td.text-end $ 3.000.000 
                     tr
-                      td.bg-t1-8 #[b 1]
+                      td.bg-t1-8.text-center #[b 1]
                       td.bg-t1-8.text-end $ 600.000 
-                      td.bg-t1-8.text-end $ 600.000 
-                      td.bg-t1-8.text-center $ 2.400.000 
-                    tr
-                      td.bg-t1-8 #[b 2]
-                      td.bg-t1-8.text-end $ 600.000 
-                      td.bg-t1-8.text-end $ 1.200.000 
-                      td.bg-t1-8.text-center $ 1.800.000 
-                    tr
-                      td.bg-t1-8 #[b 3]
-                      td.bg-t1-8.text-end $ 600.000 
-                      td.bg-t1-8.text-end $ 1.800.000 
-                      td.bg-t1-8.text-center $ 1.200.000 
-                    tr
-                      td.bg-t1-8 #[b 4]
                       td.bg-t1-8.text-end $ 600.000 
                       td.bg-t1-8.text-end $ 2.400.000 
-                      td.bg-t1-8.text-center $ 600.000 
                     tr
-                      td.bg-t1-8 #[b 5]
+                      td.bg-t1-8.text-center #[b 2]
+                      td.bg-t1-8.text-end $ 600.000 
+                      td.bg-t1-8.text-end $ 1.200.000 
+                      td.bg-t1-8.text-end $ 1.800.000 
+                    tr
+                      td.bg-t1-8.text-center #[b 3]
+                      td.bg-t1-8.text-end $ 600.000 
+                      td.bg-t1-8.text-end $ 1.800.000 
+                      td.bg-t1-8.text-end $ 1.200.000 
+                    tr
+                      td.bg-t1-8.text-center #[b 4]
+                      td.bg-t1-8.text-end $ 600.000 
+                      td.bg-t1-8.text-end $ 2.400.000 
+                      td.bg-t1-8.text-end $ 600.000 
+                    tr
+                      td.bg-t1-8.text-center #[b 5]
                       td.bg-t1-8.text-end $ 600.000 
                       td.bg-t1-8.text-end $ 3.000.000 
-                      td.bg-t1-8.text-center #[b -]
+                      td.bg-t1-8.text-end #[b $ 0]
 
 
             .col-lg-10.mt-4
@@ -605,12 +604,12 @@
                     .col-xl.d-flex
                       .p-4.w-100.align-items-center
                         p #[b En el año dos sufre el deterioro por $500.000]
-                        p Computador: $3.000.000
-                        p Depreciación: $1.200.000
-                        p Deterioro: $500.000
-                        p Valor residual: $1.300.000
-                        p 159902 deterioro computador $500.000
-                        p 519801 deterioro $500.000 
+                        p Computador: $ 3.000.000
+                        p Depreciación: $ 1.200.000
+                        p Deterioro: $ 500.000
+                        p Valor residual: $ 1.300.000
+                        p 159902 deterioro computador $ 500.000
+                        p 519801 deterioro $ 500.000 
 
                     .col-xl-auto.pe-xl-0.mb-4.mb-xl-0.d-flex.d-none.d-lg-block
                       figure.m-0.p-0.w-100.h-100.d-flex
@@ -630,30 +629,30 @@
                       td.text-center(style="background-color: #F8D7B0 !important") #[b DEPRECIACIÓN ACUMULADA]
                       td.text-center(style="background-color: #F8D7B0 !important") #[b SALDO]
                     tr
-                      td.bg-t1-8 #[b 2]
+                      td.bg-t1-8.text-center #[b 2]
                       td.bg-t1-8.text-end $ 600.000 
                       td.bg-t1-8.text-end $ 1.200.000 
-                      td.bg-t1-8.text-center $ 1.300.000 
+                      td.bg-t1-8.text-end $ 1.300.000 
                     tr
-                      td.bg-t1-8 #[b 3]
+                      td.bg-t1-.text-center #[b 3]
                       td.bg-t1-8.text-end $ 433.333 
-                      td.bg-t1-8.text-end $ 433.333 
-                      td.bg-t1-8.text-center $ 866.667 
-                    tr
-                      td.bg-t1-8 #[b 4]
                       td.bg-t1-8.text-end $ 433.333 
                       td.bg-t1-8.text-end $ 866.667 
-                      td.bg-t1-8.text-center $ 433.333 
                     tr
-                      td.bg-t1-8 #[b 5]
+                      td.bg-t1-8.text-center #[b 4]
+                      td.bg-t1-8.text-end $ 433.333 
+                      td.bg-t1-8.text-end $ 866.667 
+                      td.bg-t1-8.text-end $ 433.333 
+                    tr
+                      td.bg-t1-8.text-center #[b 5]
                       td.bg-t1-8.text-end $ 433.333 
                       td.bg-t1-8.text-end $ 1.300.000 
-                      td.bg-t1-8.text-center #[b -]
+                      td.bg-t1-8.text-end #[b $ 0]
                     
                     
     separador
     #t_1_5.titulo-segundo.color-acento-contenido
-      h2 1.5 Reconocimiento, medición, presentación y revelación. 
+      h2 1.5 Reconocimiento, medición, presentación y revelación
 
     p.p-4.bg-t1-12 #[b Reconocimiento] al momento de reconocer un bien como propiedad, planta y equipo se debe identificar la definición del activo, es decir, que a futuro genere beneficios económicos de la utilización de este dentro de la empresa, además, debe cumplir con la condición de que el precio de ese activo es fiable. 
 
@@ -666,22 +665,22 @@
           p
           p.mt-4 #[b Modelo del costo:] este modelo consiste en disminuir del costo inicial el valor de la depreciación acumula, así como, el valor por deterioro si lo hay, en el monumento de cierre del periodo.
 
-          p #[b Ejemplo:] La empresa TRAPITOS S.A., el día primero de marzo compra una máquina de coser por valor de $ 6.500.000, adicionalmente se canceló servicio de transporte por $250.000, se estima un desmantelamiento en 10 años por valor de $2.000.000 a una tasa de 6% EA
+          p #[b Ejemplo:] La empresa TRAPITOS S.A., el día primero de marzo compra una máquina de coser por valor de $ 6.500.000, adicionalmente se canceló servicio de transporte por $ 250.000, se estima un desmantelamiento en 10 años por valor de $ 2.000.000 a una tasa de 6 % EA
 
           .col-lg-4
             .row.bg-t1-9.p-4 
               p.mb-0 VP= VF/ (1+i)^n
-              p.mb-0 VP= $2000000/(1+0.06)^10
-              p.mb-3 VP= $1.116.790
+              p.mb-0 VP= $ 2000000/(1+0.06)^10
+              p.mb-3 VP= $ 1.116.790
               
-              p.mb-0 Maquinaria $6.500.000
-              p.mb-0 IVA $1.235.000
-              p.mb-3 Fletes $250.000
+              p.mb-0 Maquinaria $ 6.500.000
+              p.mb-0 IVA $ 1.235.000
+              p.mb-3 Fletes $ 250.000
               
-              p.mb-0 Desmantelamiento $1.116.790 
-              p.mb-0 Valor a depreciar: $9.101.790
-              p.mb-0 Depreciación anual: $910.179
-              p.mb-0 Depreciación mensual: $75.848
+              p.mb-0 Desmantelamiento $ 1.116.790 
+              p.mb-0 Valor a depreciar: $ 9.101.790
+              p.mb-0 Depreciación anual: $ 910.179
+              p.mb-0 Depreciación mensual: $ 75.848
 
           .col-lg-6
             .titulo-sexto.color-acento-contenido.mb-3
@@ -695,19 +694,19 @@
                       td.text-center(style="background-color: #F8D7B0 !important") #[b Valor]
 
                     tr
-                      td #[b 299501]
-                      td.text-center Máquina de Coser 
-                      td.text-center 9.101.790
+                      td 299501
+                      td.text-start Máquina de Coser 
+                      td.text-end $ 9.101.790
 
                     tr
-                      td.bg-t1-8 #[b 152001]
-                      td.bg-t1-8 Desmantelamiento
-                      td.bg-t1-8.text-center 1.116.790
+                      td.bg-t1-8 152001
+                      td.bg-t1-8.text-start Desmantelamiento
+                      td.bg-t1-8.text-end $ 1.116.790
 
                     tr
-                      td #[b 233505]
-                      td.text-center Costos por Pagar
-                      td.text-center 7.985.000
+                      td 233505
+                      td.text-start Costos por Pagar
+                      td.text-end $ 7.985.000
 
             .titulo-sexto.color-acento-contenido.mb-3
               span  Tabla 15. Registro de depreciación al finalizar el año
@@ -720,14 +719,14 @@
                       td.text-center(style="background-color: #F8D7B0 !important") #[b Valor]
 
                     tr
-                      td #[b 516020]
-                      td.text-center Depreciación
-                      td.text-center $ 758.480
+                      td 516020
+                      td.text-start Depreciación
+                      td.text-end $ 758.480
 
                     tr
-                      td.bg-t1-8 #[b 159220]
-                      td.bg-t1-8 Dep Acumulada
-                      td.bg-t1-8.text-center $ 758.480
+                      td.bg-t1-8 159220
+                      td.bg-t1-8.text-start Dep Acumulada
+                      td.bg-t1-8.text-end $ 758.480
 
             .titulo-sexto.color-acento-contenido.mb-3
               span  Tabla 16. Ajuste del costo por desmantelamiento
@@ -739,22 +738,22 @@
                       td.text-center(style="background-color: #F8D7B0 !important") #[b Total]
 
                     tr
-                      td #[b Tasa EA]
-                      td.text-center 6,00%
+                      td Tasa EA
+                      td.text-center 6,00 %
 
                     tr
-                      td.bg-t1-8 #[b Tasa Nominal]
-                      td.bg-t1-8.text-center 5,84%
+                      td.bg-t1-8 Tasa Nominal
+                      td.bg-t1-8.text-center 5,84 %
 
                     tr
-                      td #[b Tasa Mensual]
-                      td.text-center 0,487%
+                      td Tasa Mensual
+                      td.text-center 0,487 %
 
             .row.bg-t1-9.p-4 
               p.mb-0 VF=VP (1+TI)^n
-              p.mb-0 VF= 1116790 (1+0.00487)^10
-              p.mb-0 VF=1172357
-              p.mb-0 VP-VF= 1116790-1172357=55.567
+              p.mb-0 VF= $ 1.116.790 (1+0.00487)^10
+              p.mb-0 VF= $ 1.172.357
+              p.mb-0 VP-VF= $ 1.116.790 - $ 1.172.357 = $ 55.567
 
           .col-lg-8.mt-4
             .titulo-sexto.color-acento-contenido.mb-3
@@ -769,15 +768,15 @@
                     td.text-center(style="background-color: #F8D7B0 !important") #[b Débito]
                     td.text-center(style="background-color: #F8D7B0 !important") #[b Crédito]
                   tr
-                    td #[b 152001]
+                    td 152001
                     td Gastos de prov. Desmantelamiento	
-                    td $55.567	
-                    td.text-center #[b -]
+                    td.text-end $55.567	
+                    td.text-end $ 0
                   tr
-                    td.bg-t1-8 #[b 299501]
+                    td.bg-t1-8 299501
                     td.bg-t1-8 Desmantelamiento
-                    td.bg-t1-8.text-center  #[b -]
-                    td.bg-t1-8.text-center $ 55.567
+                    td.bg-t1-8.text-end  $ 0
+                    td.bg-t1-8.text-end $ 55.567
 
 
     .row.p-4.bg-t1-12.justify-content-center.mt-4
@@ -789,15 +788,15 @@
           .col-lg-8 
             .row.bg-t1-9.p-4 
               p.mb-0 Costo de adquisición - depreciación acumulada = valor en libros 
-              p.mb-0 6.500.000   -   758.480 = 5.741.520 
+              p.mb-0 $ 6.500.000   -   $ 758.480 = $ 5.741.520 
               p.mb-0 Valorización con respecto al costo histórico
-              p.mb-0 8.000.000 – 5.741.520 = 2.258.480
+              p.mb-0 $ 8.000.000 – $ 5.741.520 = $ 2.258.480
               p.mb-0 Valoración / costo histórico
-              p.mb-0 2.258.480 / 5.741.520 = 39,34%
-              p.mb-0 Depreciación * 39,34% = valor ajustado de depreciación 
-              p.mb-0 758.480*39,34%= 298.386
-              p.mb-0 Costo histórico*39.34%= valor ajuste costo histórico 
-              p.mb-0 6.500.000*39.34%= 2.535.000
+              p.mb-0 $ 2.258.480 / $ 5.741.520 = 39,34 %
+              p.mb-0 Depreciación * 39,34 % = valor ajustado de depreciación 
+              p.mb-0 $ 758.480*39,34 %= $ 298.386
+              p.mb-0 Costo histórico*39.34 %= valor ajuste costo histórico 
+              p.mb-0 $ 6.500.000*39.34 %= $ 2.535.000
           .col-lg-4.d-none.d-lg-block
             figure
               img(src='@/assets/curso/tema1/img9.png', alt='', style="width: 480px").m-auto
@@ -806,21 +805,21 @@
             table.table.table-bordered
               tbody
                 tr
-                  td #[b 152001]
+                  td 152001
                   td Máquina de coser
-                  td.text-center $2.535.000
-                  td.text-center #[b -]
+                  td.text-end $2.535.000
+                  td.text-end $ 0
                 tr
-                  td.bg-t1-8 #[b 159220]
+                  td.bg-t1-8 159220
                   td.bg-t1-8 Depreciación acumulada
-                  td.bg-t1-8.text-center  #[b -]
-                  td.bg-t1-8.text-center $ 298.386
+                  td.bg-t1-8.text-end  $ 0
+                  td.bg-t1-8.text-end $ 298.386
 
                 tr
-                  td #[b 429501]
+                  td 429501
                   td Superávit de Revaluación
-                  td.text-center #[b -]
-                  td.text-center $ 2.236.614
+                  td.text-end $ 0
+                  td.text-end $ 2.236.614
 
     .row.mt-4
       p.p-4.bg-t1-12 #[b Presentación y revelación:] la propiedad, planta y equipo se presenta y se revela teniendo en cuenta el criterio de medición de cada uno de los elementos de propiedad, planta y equipo, los métodos de depreciación utilizados, los años de vida útil, el valor de salvamento que es el valor residual que queda del activo después de su depreciación transcurrido los años de vida útil, si se presentó deterioro por cualquier factor en el transcurso del tiempo, los incrementos o disminuciones surgidas de revaluaciones, por diferencia en cambio sí se presenta, entre otras variaciones.

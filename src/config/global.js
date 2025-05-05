@@ -1,7 +1,7 @@
 export default {
   global: {
     Name:
-      'Reconocimiento de propiedad, planta y equipo, propiedades de inversión y activos mantenidos para la venta.',
+      'Reconocimiento de propiedad, planta y equipo, propiedades de inversión y activos mantenidos para la venta',
     Description:
       'En este componente se desarrolla la unidad temática de Propiedad, Planta y Equipo o lo que denominamos en la normativa contable, “Bienes de Uso” o “Activos Fijos”. Estos, son indispensables para el funcionamiento de las organizaciones. Por lo tanto, se debe identificar las necesidades requeridas de los activos, sus características, objetivo, finalidad y normatividad vigente aplicable.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -137,7 +137,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/123101_CF08_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -227,7 +227,7 @@ export default {
     },
     {
       referencia:
-        'CTCP, (2016b), NIIF 5- Activos no Corrientes Mantenidos para la Venta y Operaciones Discontinuadas',
+        'CTCP, (2016b), NIIF 5- Activos no Corrientes Mantenidos para la Venta y Operaciones Discontinuadas.',
       link:
         'https://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-organismos-internacionales/compilacion-marcos-tecnicos-de-informacion-financi/1534346664-4845',
     },
@@ -252,7 +252,7 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Claudia Brceida Coy Coy',
+          nombre: 'Claudia Briseida Coy Coy',
           cargo: 'Experto temático',
           centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },

@@ -158,7 +158,7 @@
     p #[b Por lo tanto, para ilustrar un poco la compra de propiedad, planta y equipo se presenta el siguiente ejemplo:]
 
     .row.mt-4.bg-t1-4.p-4
-      p La empresa ABC Ltda. responsable de IVA compra una máquina para uso de la empresa por valor de $3.000.000 a la empresa Eléctricos S.A.S responsable de IVA gran contribuyente, además, se pagan fletes por $150.000 y servicio de instalación por valor de $350.000, los años de vida útil estipulados son de 10 años, se estima un desmantelamiento por $1.000.000 a una tasa de descuento de 9 % E.A. 
+      p La empresa ABC Ltda. responsable de IVA compra una máquina para uso de la empresa por valor de $ 3.000.000 a la empresa Eléctricos S.A.S responsable de IVA gran contribuyente, además, se pagan fletes por $ 150.000 y servicio de instalación por valor de $ 350.000, los años de vida útil estipulados son de 10 años, se estima un desmantelamiento por $ 1.000.000 a una tasa de descuento de 9 % E.A. 
 
       .row
         .col-lg-5

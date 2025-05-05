@@ -175,16 +175,16 @@
                   th.text-center VALOR
               tbody
                 tr
-                  td #[b Maquinaria ]
+                  td Maquinaria 
                   td.text-end $ 3.000.000
                 tr
-                  td.bg-t1-8 #[b Fletes ]
+                  td.bg-t1-8 Fletes 
                   td.bg-t1-8.text-end $ 150.000 
                 tr
-                  td #[b IVA 19 %  ]
+                  td IVA 19 % 
                   td.text-end $ 598.500 
                 tr
-                  td.bg-t1-8 #[b RETEFUENTE 2,5 % ]
+                  td.bg-t1-8 RETEFUENTE 2,5 % 
                   td.bg-t1-8.text-end $ 78.750 
 
           .titulo-sexto.color-acento-contenido.mb-3
@@ -216,22 +216,22 @@
                   td.bg-t1-7.text-center  #[b DEBE ]
                   td.bg-t1-7.text-center  #[b CRÉDITO ]
                 tr
-                  td #[b 152001]
+                  td 152001
                   td Maquinaria y equipo
                   td.text-end $ 4.170.911
                   td
                 tr
-                  td.bg-t1-8 #[b 236540 ]
+                  td.bg-t1-8 236540 
                   td.bg-t1-8 Retefuente
                   td.bg-t1-8
                   td.bg-t1-8.text-end $ 78.750 
                 tr
-                  td #[b 299501]
+                  td 299501
                   td Prov desmantelamiento
                   td 
                   td.text-end $ 422.411 
                 tr
-                  td.bg-t1-8 #[b 233505]
+                  td.bg-t1-8 233505
                   td.bg-t1-8 Costos y gastos por pagar
                   td.bg-t1-8
                   td.bg-t1-8.text-end $ 3.669.750 
@@ -279,7 +279,7 @@
                       td.bg-t1-8 Acreedores del exterior
                       td.bg-t1-8.text-end $ 17.500.000
 
-              p.mt-2 El valor posterior de la máquina es de $18.750.000, se reconoce la diferencia en comparación con el costo inicial
+              p.mt-2 El valor posterior de la máquina es de $18.750.000, se reconoce la diferencia en comparación con el costo inicial.
 
               .titulo-sexto.color-acento-contenido.mb-3
                 span Tabla 6. Reconocimiento de la diferencia en cambio
@@ -362,6 +362,11 @@
 
               .table-responsive
                 table.table.table-bordered.bg-t1-6
+                  colgroup
+                    col(style='width: 20%')
+                    col(style='width: 30%')
+                    col(style='width: 25%')
+                    col(style='width: 25%')
                   tbody
                     tr
                       td.bg-t1-7.text-center #[b CÓDIGO]
@@ -408,110 +413,110 @@
                 td.bg-t1-7.text-center #[b DEPRECIACIÓN ACUMULADA]
                 td.bg-t1-7.text-center #[b SALDO]
               tr
-                td.text-center #[b 0]
-                td.text-end #[b $ 0]
-                td.text-end #[b 0 $]
+                td.text-center  0
+                td.text-end  $ 0
+                td.text-end  0 $
                 td.text-end $ 46.559.024
               tr
-                td.bg-t1-8.text-center #[b 1]
-                td.text-end.bg-t1-8 #[b $ 2.327.951]
-                td.text-end.bg-t1-8 #[b $ 2.327.951]
+                td.bg-t1-8.text-center  1
+                td.text-end.bg-t1-8  $ 2.327.951
+                td.text-end.bg-t1-8  $ 2.327.951
                 td.text-end.bg-t1-8 $ 44.231.072
               tr
-                td.text-center #[b 2]
-                td.text-end #[b $ 2.327.951]
-                td.text-end #[b $ 4.655.902]
+                td.text-center  2
+                td.text-end  $ 2.327.951
+                td.text-end  $ 4.655.902
                 td.text-end $ 41.903.121
               tr
-                td.bg-t1-8.text-center #[b 3]
-                td.text-end.bg-t1-8 #[b $ 2.327.951]
-                td.text-end.bg-t1-8 #[b $ 6.983.854]
+                td.bg-t1-8.text-center  3
+                td.text-end.bg-t1-8  $ 2.327.951
+                td.text-end.bg-t1-8  $ 6.983.854
                 td.text-end.bg-t1-8 $ 39.575.170
               tr
-                td.text-center #[b 4]
-                td.text-end #[b $ 2.327.951]
-                td.text-end #[b $ 9.311.805]
+                td.text-center  4
+                td.text-end $ 2.327.951
+                td.text-end  $ 9.311.805
                 td.text-end $ 37.247.219
               tr
-                td.bg-t1-8.text-center #[b 5]
-                td.text-end.bg-t1-8 #[b $ 2.327.951]
-                td.text-end.bg-t1-8 #[b $ 11.639.756]
+                td.bg-t1-8.text-center  5
+                td.text-end.bg-t1-8  $ 2.327.951
+                td.text-end.bg-t1-8  $ 11.639.756
                 td.text-end.bg-t1-8 $ 34.919.268
               tr
-                td.text-center #[b 6]
-                td.text-end #[b $ 2.327.951]
-                td.text-end #[b $ 13.967.707]
+                td.text-center  6
+                td.text-end  $ 2.327.951
+                td.text-end  $ 13.967.707
                 td.text-end $ 32.591.317
               tr
-                td.bg-t1-8.text-center #[b 7]
-                td.text-end.bg-t1-8 #[b $ 2.327.951]
-                td.text-end.bg-t1-8 #[b $ 16.295.658]
+                td.bg-t1-8.text-center  7
+                td.text-end.bg-t1-8  $ 2.327.951
+                td.text-end.bg-t1-8  $ 16.295.658
                 td.text-end.bg-t1-8 $ 30.263.365
               tr
-                td.text-center #[b 8]
-                td.text-end #[b $ 2.327.951]
-                td.text-end #[b $ 18.623.609]
+                td.text-center  8
+                td.text-end  $ 2.327.951
+                td.text-end  $ 18.623.609
                 td.text-end $ 27.935.414
               tr
-                td.bg-t1-8.text-center #[b 9]
-                td.text-end.bg-t1-8 #[b $ 2.327.951]
-                td.text-end.bg-t1-8 #[b $ 20.951.561]
+                td.bg-t1-8.text-center  9
+                td.text-end.bg-t1-8  $ 2.327.951
+                td.text-end.bg-t1-8  $ 20.951.561
                 td.text-end.bg-t1-8 $ 25.607.463
               tr
-                td.text-center #[b 10]
-                td.text-end #[b $ 2.327.951]
-                td.text-end #[b $ 23.279.512]
+                td.text-center  10
+                td.text-end  $ 2.327.951
+                td.text-end  $ 23.279.512
                 td.text-end $ 23.279.512
               tr
-                td.bg-t1-8.text-center #[b 11]
-                td.text-end.bg-t1-8 #[b $ 2.327.951]
-                td.text-end.bg-t1-8 #[b $ 25.607.463]
+                td.bg-t1-8.text-center 11
+                td.text-end.bg-t1-8  $ 2.327.951
+                td.text-end.bg-t1-8  $ 25.607.463
                 td.text-end.bg-t1-8 $ 20.951.561
               tr
-                td.text-center #[b 12]
-                td.text-end #[b $ 2.327.951]
-                td.text-end #[b $ 27.935.414]
+                td.text-center  12
+                td.text-end  $ 2.327.951
+                td.text-end  $ 27.935.414
                 td.text-end $ 18.623.609
               tr
-                td.bg-t1-8.text-center #[b 13]
-                td.text-end.bg-t1-8 #[b $ 2.327.951]
-                td.text-end.bg-t1-8 #[b $ 30.263.365]
+                td.bg-t1-8.text-center  13
+                td.text-end.bg-t1-8  $ 2.327.951
+                td.text-end.bg-t1-8  $ 30.263.365
                 td.text-end.bg-t1-8 $ 16.295.658
               tr
-                td.text-center #[b 14]
-                td.text-end #[b $ 2.327.951]
-                td.text-end #[b $ 32.591.317]
+                td.text-center 14
+                td.text-end  $ 2.327.951
+                td.text-end  $ 32.591.317
                 td.text-end $ 13.967.707
               tr
-                td.bg-t1-8.text-center #[b 15]
-                td.text-end.bg-t1-8 #[b $ 2.327.951]
-                td.text-end.bg-t1-8 #[b $ 34.919.268]
+                td.bg-t1-8.text-center 15
+                td.text-end.bg-t1-8 $ 2.327.951
+                td.text-end.bg-t1-8 $ 34.919.268
                 td.text-end.bg-t1-8 $ 11.639.756
               tr
-                td.text-center #[b 16]
-                td.text-end #[b $ 2.327.951]
-                td.text-end #[b $ 37.247.219]
+                td.text-center 16
+                td.text-end  $ 2.327.951
+                td.text-end  $ 37.247.219
                 td.text-end $ 9.311.805
               tr
-                td.bg-t1-8.text-center #[b 17]
-                td.text-end.bg-t1-8 #[b $ 2.327.951]
-                td.text-end.bg-t1-8 #[b $ 39.575.170]
+                td.bg-t1-8.text-center 17
+                td.text-end.bg-t1-8 $ 2.327.951
+                td.text-end.bg-t1-8 $ 39.575.170
                 td.text-end.bg-t1-8 $ 6.983.854
               tr
-                td.text-center #[b 18]
-                td.text-end #[b $ 2.327.951]
-                td.text-end #[b $ 41.903.121]
+                td.text-center 18
+                td.text-end $ 2.327.951
+                td.text-end $ 41.903.121
                 td.text-end $ 4.655.902
               tr
-                td.bg-t1-8.text-center #[b 19]
-                td.text-end.bg-t1-8 #[b $ 2.327.951]
-                td.text-end.bg-t1-8 #[b $ 44.231.072]
+                td.bg-t1-8.text-center 19
+                td.text-end.bg-t1-8 $ 2.327.951
+                td.text-end.bg-t1-8 $ 44.231.072
                 td.text-end.bg-t1-8 $ 2.327.951
               tr
-                td.text-center #[b 20]
-                td.text-end #[b $ 2.327.951]
-                td.text-end #[b $ 46.559.024]
-                td.text-end #[b $ 0]
+                td.text-center 20
+                td.text-end $ 2.327.951
+                td.text-end $ 46.559.024
+                td.text-end $ 0
 
 
     .tarjeta.bg-t1-11.p-4.mt-4
@@ -629,25 +634,25 @@
                       td.text-center(style="background-color: #F8D7B0 !important") #[b DEPRECIACIÓN ACUMULADA]
                       td.text-center(style="background-color: #F8D7B0 !important") #[b SALDO]
                     tr
-                      td.bg-t1-8.text-center #[b 2]
+                      td.bg-t1-8.text-center  2
                       td.bg-t1-8.text-end $ 600.000 
                       td.bg-t1-8.text-end $ 1.200.000 
                       td.bg-t1-8.text-end $ 1.300.000 
                     tr
-                      td.bg-t1-.text-center #[b 3]
+                      td.bg-t1-8.text-center  3
                       td.bg-t1-8.text-end $ 433.333 
                       td.bg-t1-8.text-end $ 433.333 
                       td.bg-t1-8.text-end $ 866.667 
                     tr
-                      td.bg-t1-8.text-center #[b 4]
+                      td.bg-t1-8.text-center  4
                       td.bg-t1-8.text-end $ 433.333 
                       td.bg-t1-8.text-end $ 866.667 
                       td.bg-t1-8.text-end $ 433.333 
                     tr
-                      td.bg-t1-8.text-center #[b 5]
+                      td.bg-t1-8.text-center  5
                       td.bg-t1-8.text-end $ 433.333 
                       td.bg-t1-8.text-end $ 1.300.000 
-                      td.bg-t1-8.text-end #[b $ 0]
+                      td.bg-t1-8.text-end  $ 0
                     
                     
     separador

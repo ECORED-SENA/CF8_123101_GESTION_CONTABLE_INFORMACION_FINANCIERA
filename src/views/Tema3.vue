@@ -5,26 +5,26 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Activos Mantenidos para la Venta
+      h1(data-aos="zoom-in") Activos Mantenidos para la Venta
 
     .row.bg-t1-1
       .col-12
         .p-5
           .row.align-items-center
             .col-lg-8
-              .row.p-4.bg-t1-2 
+              .row.p-4.bg-t1-2(data-aos="fade-left")
                 p Los activos no corrientes mantenidos para la venta serán clasificados por la entidad, si su importe en libros se recuperará fundamentalmente a través de una transacción de venta a diferencia de activos que tienen uso continuos los cuales tienen otra finalidad. 
 
                 p Para efectuar la clasificación anterior, el activo debe estar a disposición y en condiciones actuales para su venta inmediata sujeto a los términos usuales y habituales para la venta y negociado razonablemente; este debe ser vendido en menos de un año.
             .col-lg-4.d-none.d-lg-block
-              figure
+              figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema3/img1.png', alt='', style="width: 295px").m-auto
 
           separador
           #t_3_1.titulo-segundo.color-acento-contenido
             h2 3.1 Política contable
 
-          .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5
+          .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5(data-aos="zoom-in")
             .bloque-texto-g__img(
               :style="{'background-image': `url(${require('@/assets/curso/tema3/img2.png')})`}"
             )
@@ -64,15 +64,15 @@
                 tr
                   td 151601
                   td Casa para venta
-                  td.text-end $ 100.000.000 
-                  td.text-end $ 0
+                  td.text-end $100.000.000 
+                  td.text-end $0
                 tr
                   td.bg-t1-8 233505
                   td.bg-t1-8 Costos y gastos por pagar
-                  td.bg-t1-8.text-end $ 0
-                  td.bg-t1-8.text-end $ 100.000.000
+                  td.bg-t1-8.text-end $0
+                  td.bg-t1-8.text-end $100.000.000
         .col-lg-4.d-none.d-lg-block
-          figure
+          figure(data-aos="fade-left")
             img(src='@/assets/curso/tema3/img3.png', alt='', style="width: 190px")
 
     .row.bg-t1-12.p-5.mt-4
@@ -88,7 +88,7 @@
           p Se catalogan operaciones discontinuadas porque, se espera que en el corto plazo ya no se siguen presentando.
 
         .col-lg-4.d-none.d-lg-block
-          figure
+          figure(data-aos="zoom-in")
             img(src='@/assets/curso/tema3/img4.png', alt='', style="width: 295px")
 
     .row.bg-t1-12.p-5.mt-4

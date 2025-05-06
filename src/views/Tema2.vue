@@ -5,13 +5,13 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Propiedades de Inversión 
+      h1(data-aos="zoom-in") Propiedades de Inversión 
 
     .row.align-items-center
       .col-lg-8
-        p.p-4.bg-t1-2 Son activos de los cuales se espera obtener rendimientos a futuro, generando ingresos no operacionales para la empresa, como son el arriendo de los terrenos, edificios, casas, locales, entre otros. De estos, se obtiene una contraprestación en dinero que incrementa la economía de los propietarios; además, el terreno se valoriza. Por ende, a largo plazo, se obtiene una utilidad cuando el activo es vendido. Por esto, la importancia que revisten las inversiones, no solo en las empresas, sino también, en las personas naturales, que. para muchos es su actividad diaria igualmente, algunas personas piensan que invertir es un riesgo, aunque en realidad es una oportunidad para crecer financieramente. 
+        p.p-4.bg-t1-2(data-aos="zoom-in") Son activos de los cuales se espera obtener rendimientos a futuro, generando ingresos no operacionales para la empresa, como son el arriendo de los terrenos, edificios, casas, locales, entre otros. De estos, se obtiene una contraprestación en dinero que incrementa la economía de los propietarios; además, el terreno se valoriza. Por ende, a largo plazo, se obtiene una utilidad cuando el activo es vendido. Por esto, la importancia que revisten las inversiones, no solo en las empresas, sino también, en las personas naturales, que. para muchos es su actividad diaria igualmente, algunas personas piensan que invertir es un riesgo, aunque en realidad es una oportunidad para crecer financieramente. 
       .col-lg-4.d-none.d-lg-block
-        figure
+        figure(data-aos="fade-up")
           img(src='@/assets/curso/tema2/img1.png', alt='', style="width: 295px").m-auto
 
     separador
@@ -27,16 +27,16 @@
 
               p Para la elaboración de las políticas contables de las propiedades de inversión es importante tener en cuenta los criterios de reconocimiento, medición, presentación y revelación, establecidos en la Norma Internacional de Contabilidad (NIC) 40.
             .col-lg-4
-              figure
+              figure(data-aos="fade-up")
                 img(src='@/assets/curso/tema2/img2.png', alt='', style="width: 295px").m-auto
 
           .row.align-items-center
             .col-lg-4.d-none.d-lg-block
-              figure
+              figure(data-aos="zoom-in")
                 img(src='@/assets/curso/tema2/img3.png', alt='', style="width: 400px").m-auto
 
             .col-lg-8
-              p.p-4.bg-t1-10 La medición inicial se realiza aplicando el modelo del costo y en la medición posterior se efectúa a valor razonable, con cambios en el resultado, que afectan la utilidad del ejercicio. Sin embargo, en las propiedades de inversión se puede establecer en la política contable el criterio de medición al costo en casos específicos donde sea imposible medir a valor razonable. Es importante hacer referencia a que la norma solicita que todas las entidades midan a valor razonable, sin embargo, esto no es una obligación, pero sí se debe tener presente el mejor criterio que beneficie a la entidad. Por último, se debe tener en cuenta que, al momento de vender una propiedad de inversión, se reconoce a valor razonable, sin importar el criterio de medición establecido para la empresa.
+              p.p-4.bg-t1-10(data-aos="fade-left") La medición inicial se realiza aplicando el modelo del costo y en la medición posterior se efectúa a valor razonable, con cambios en el resultado, que afectan la utilidad del ejercicio. Sin embargo, en las propiedades de inversión se puede establecer en la política contable el criterio de medición al costo en casos específicos donde sea imposible medir a valor razonable. Es importante hacer referencia a que la norma solicita que todas las entidades midan a valor razonable, sin embargo, esto no es una obligación, pero sí se debe tener presente el mejor criterio que beneficie a la entidad. Por último, se debe tener en cuenta que, al momento de vender una propiedad de inversión, se reconoce a valor razonable, sin importar el criterio de medición establecido para la empresa.
 
           .row.mb-2.ms-0.mt-4
             .col-auto.bg-c3(data-aos="fade-left")
@@ -65,7 +65,7 @@
           p.mt-4 #[b Ejemplo:]
 
           .row.justify-content-center.bg-t1-10.p-5
-            p La empresa X adquiere un local para inversión por valor de $ 50.000.000, el 10 % corresponde a terrenos, y el resto es construcción, se estima un desmantelamiento de $ 5.000.000 a una tasa del 6 % E.A. al finalizar su vida útil de 20 años.
+            p La empresa X adquiere un local para inversión por valor de $50.000.000, el 10 % corresponde a terrenos, y el resto es construcción, se estima un desmantelamiento de $5.000.000 a una tasa del 6 % E.A. al finalizar su vida útil de 20 años.
 
             p #[b Medición inicial] 
 
@@ -97,7 +97,7 @@
                       td.text-center(style="background-color: #F8D7B0 !important") #[b Valor]
                     tr
                       td VP = VF / (1 + i)^n
-                      td.text-end $ 1.559.024
+                      td.text-end $1.559.024
 
 
             .col-lg-6
@@ -108,25 +108,25 @@
                 table.table.table-bordered
                   tbody
                     tr
-                      td.text-center(style="background-color: #F8D7B0 !important") #[b CÓDIGO ]
-                      td.text-center(style="background-color: #F8D7B0 !important") #[b CUENTA ]
-                      td.text-center(style="background-color: #F8D7B0 !important") #[b DEBE ]
-                      td.text-center(style="background-color: #F8D7B0 !important") #[b CRÉDITO ]
+                      td.text-center(style="background-color: #F8D7B0 !important") #[b Código ]
+                      td.text-center(style="background-color: #F8D7B0 !important") #[b Cuenta ]
+                      td.text-center(style="background-color: #F8D7B0 !important") #[b Debe ]
+                      td.text-center(style="background-color: #F8D7B0 !important") #[b Crédito ]
                     tr
                       td.text-center 150405
                       td.text-start Terrenos urbanos
-                      td.text-end $ 5.000.000 
-                      td.text-end $ 0
+                      td.text-end $5.000.000 
+                      td.text-end -
                     tr
                       td.bg-t1-8.text-center 151610
                       td.bg-t1-8.text-start Bodega
-                      td.bg-t1-8.text-end  $ 46.559.024
-                      td.bg-t1-8.text-end $ 0
+                      td.bg-t1-8.text-end  $46.559.024
+                      td.bg-t1-8.text-end -
                     tr
                       td.text-center 233505
                       td.text-start Costos y gastos por pagar
-                      td.text-end 
-                      td.text-end #[b $ 50.000.000]
+                      td.text-end -
+                      td.text-end $50.000.000
 
           p.mt-4 Pasado un año la bodega sufre un deterioro por inseguridad en el sector y pierde valor por $5.000.000. Se solicita realizar la medición posterior del activo. 
 
@@ -137,13 +137,13 @@
                   .row.d-flex.align-items-stretch.bg-t1-3
                     .col-xl.p-4
                       .p-4.w-100.align-items-center
-                        p.mb-0 Valor inicial de la bodega        $ 46.559.024
-                        p.mb-0 Depreciación anual                   $ 2.327.951
-                        p.mb-0 Deterioro:                                    $ 5.000.000
-                        p Valor actual:                               $ 39.321.073
+                        p.mb-0 Valor inicial de la bodega        $46.559.024
+                        p.mb-0 Depreciación anual                   $2.327.951
+                        p.mb-0 Deterioro:                                    $5.000.000
+                        p Valor actual:                               $39.321.073
                         
-                        p.mb-0 159901 deterioro bodega       $ 5.000.000
-                        p.mb-0 519801 deterioro                      $ 5.000.000 
+                        p.mb-0 159901 deterioro bodega       $5.000.000
+                        p.mb-0 519801 deterioro                      $5.000.000 
 
                     .col-xl-auto.pe-xl-0.mb-4.mb-xl-0.d-flex.d-none.d-lg-block
                       figure.m-0.p-0.w-100.h-100.d-flex
@@ -163,7 +163,7 @@
           
           p.mt-4 #[b Ejemplo:]
 
-          p La empresa X adquiere un local para inversión por valor de $ 50.000.000, el 10 % corresponde a terrenos, y el resto es construcción, tener en cuenta los criterios de medición.
+          p La empresa X adquiere un local para inversión por valor de $50.000.000, el 10 % corresponde a terrenos, y el resto es construcción, tener en cuenta los criterios de medición.
 
           .col-lg-6
             .titulo-sexto.color-acento-contenido.mb-3
@@ -177,10 +177,10 @@
                     td.text-center(style="background-color: #F8D7B0 !important") #[b Valor]
                   tr
                     td Construcción
-                    td.text-end $ 45.000.000
+                    td.text-end $45.000.000
                   tr
                     td.bg-t1-8 Terreno
-                    td.bg-t1-8.text-end $ 5.000.000
+                    td.bg-t1-8.text-end $5.000.000
 
             .titulo-sexto.color-acento-contenido.mb-3.mt-4
               span Tabla 22. Costo estimado de desmantelamiento
@@ -193,7 +193,7 @@
                     td.text-center(style="background-color: #F8D7B0 !important") #[b Valor]
                   tr
                     td VP = VF / (1 + i)^n
-                    td.text-end $ 1.559.024
+                    td.text-end $1.559.024
 
           .col-lg-6
             .titulo-sexto.color-acento-contenido.mb-3
@@ -203,25 +203,25 @@
               table.table.table-bordered.bg-t1-6
                 tbody
                   tr
-                    td.bg-t1-7.text-center #[b CÓDIGO]
-                    td.bg-t1-7.text-center  #[b CUENTA ]
-                    td.bg-t1-7.text-center  #[b DEBE ]
-                    td.bg-t1-7.text-center  #[b HABER ]
+                    td.bg-t1-7.text-center #[b Código]
+                    td.bg-t1-7.text-center  #[b Cuenta ]
+                    td.bg-t1-7.text-center  #[b Debe ]
+                    td.bg-t1-7.text-center  #[b Haber ]
                   tr
                     td 150405
                     td Terrenos inversión
-                    td.text-end $ 5.000.000 
-                    td.text-end $ 0
+                    td.text-end $5.000.000 
+                    td.text-end -
                   tr
                     td.bg-t1-8 151601
                     td.bg-t1-8 Bodega de inversión
-                    td.bg-t1-8.text-end $ 45.000.000
-                    td.bg-t1-8.text-end $ 78.750 
+                    td.bg-t1-8.text-end $45.000.000
+                    td.bg-t1-8.text-end $78.750 
                   tr
                     td 233505
                     td Costos y Gastos por Pagar  
-                    td.text-end $ 0
-                    td.text-end $ 50.000.000 
+                    td.text-end -
+                    td.text-end $50.000.000 
 
     p.mt-4.p-4.bg-t1-12 #[b Medición posterior:] las empresas pueden medir al costo o valor razonable las propiedades de inversión, pero debe estar debidamente explícito en la política contable. Sin embargo, aunque la norma no obliga a que debe ser a valor razonable se enfoca en este tipo de criterio de medición, independientemente, si se tiene experiencia con la propiedad de inversión o si es nuevo para la empresa.
 

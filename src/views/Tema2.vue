@@ -38,14 +38,7 @@
             .col-lg-8
               p.p-4.bg-t1-10(data-aos="fade-left") La medición inicial se realiza aplicando el modelo del costo y en la medición posterior se efectúa a valor razonable, con cambios en el resultado, que afectan la utilidad del ejercicio. Sin embargo, en las propiedades de inversión se puede establecer en la política contable el criterio de medición al costo en casos específicos donde sea imposible medir a valor razonable. Es importante hacer referencia a que la norma solicita que todas las entidades midan a valor razonable, sin embargo, esto no es una obligación, pero sí se debe tener presente el mejor criterio que beneficie a la entidad. Por último, se debe tener en cuenta que, al momento de vender una propiedad de inversión, se reconoce a valor razonable, sin importar el criterio de medición establecido para la empresa.
 
-          .row.mb-2.ms-0.mt-4
-            .col-auto.bg-c3(data-aos="fade-left")
-              .row.align-items-center
-                .col-auto.px-0
-                  figure
-                    img(src='@/assets/curso/tema1/icon1.svg', alt='', style='width: 60px')
-                .col
-                  h3.mb-0 Deterioro de propiedad de inversión
+          .titulo-tres.mt-4: h3 Deterioro de propiedad de inversión
 
           .tarjeta.bg-t1-11.p-4.mt-4
             .row.justify-content-around.align-items-center
@@ -58,7 +51,7 @@
                     p.text-small.mb-0.text-white El deterioro de valor de una propiedad de inversión hace referencia a la pérdida de dinero que puede presentar el bien por eventos imprevistos, disminuyendo el valor de este en la contabilidad.
 
                   .col-sm-auto
-                    a.boton.color-acento-botones(href="downloads/anexos/deterioroPPYE2.pdf" target="_blank")
+                    a.boton.color-acento-botones(href="downloads/anexos/Anexo_3_Deterioro_PPI.pdf" target="_blank")
                       span.text-black Descargar
                       i.fas.fa-file-download.text-black
 
@@ -71,7 +64,8 @@
 
             .col-lg-6
               .titulo-sexto.color-acento-contenido.mb-3
-                span Tabla 18. Reconocimiento del activo: construcción, terreno y desmantelamiento
+                h5 Tabla 19. 
+                span Reconocimiento del activo: construcción, terreno y desmantelamiento
 
               .table-responsive
                 table.table.table-bordered
@@ -87,7 +81,8 @@
                       td.bg-t1-8.text-end $5.000.000
 
               .titulo-sexto.color-acento-contenido.mb-3
-                span Tabla 19. Costo estimado de desmantelamiento
+                h5 Tabla 20. 
+                span Costo estimado de desmantelamiento
 
               .table-responsive
                 table.table.table-bordered
@@ -102,7 +97,8 @@
 
             .col-lg-6
               .titulo-sexto.color-acento-contenido.mb-3
-                span Tabla 20. Medición inicial del activo adquirido
+                h5 Tabla 21. 
+                span Medición inicial del activo adquirido
 
               .table-responsive
                 table.table.table-bordered
@@ -167,7 +163,8 @@
 
           .col-lg-6
             .titulo-sexto.color-acento-contenido.mb-3
-              span Tabla 21. Reconocimiento del activo: construcción, terreno y desmantelamiento
+              h5 Tabla 22. 
+              span Reconocimiento del activo: construcción, terreno y desmantelamiento
 
             .table-responsive
               table.table.table-bordered
@@ -183,7 +180,8 @@
                     td.bg-t1-8.text-end $5.000.000
 
             .titulo-sexto.color-acento-contenido.mb-3.mt-4
-              span Tabla 22. Costo estimado de desmantelamiento
+              h5 Tabla 23. 
+              span Costo estimado de desmantelamiento
 
             .table-responsive
               table.table.table-bordered
@@ -197,7 +195,8 @@
 
           .col-lg-6
             .titulo-sexto.color-acento-contenido.mb-3
-              span Tabla 23. Medición inicial del activo adquirido
+              h5 Tabla 24. 
+              span Medición inicial del activo adquirido
 
             .table-responsive
               table.table.table-bordered.bg-t1-6
@@ -240,7 +239,7 @@
               p.text-small.mb-0.text-white propiedad de inversión.
 
             .col-sm-auto
-              a.boton.color-acento-botones(href="downloads/anexos/31_ES_RedBV2016_IAS40_PartA.pdf" target="_blank")
+              a.boton.color-acento-botones(href="downloads/anexos/Anexo_4_Norma _NIC_40_prop_inver.pdf" target="_blank")
                 span.text-black Descargar
                 i.fas.fa-file-download.text-black
 

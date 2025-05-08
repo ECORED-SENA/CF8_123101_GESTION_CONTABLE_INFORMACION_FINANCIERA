@@ -17,14 +17,8 @@
               figure(data-aos="fade-up")
                 img(src='@/assets/curso/tema1/img1.png', alt='', style="width: 406px").m-auto
 
-          .row.mb-2.ms-0
-            .col-auto.bg-c3(data-aos="fade-left")
-              .row.align-items-center
-                .col-auto.px-0
-                  figure(data-aos="fade-up")
-                    img(src='@/assets/curso/tema1/icon1.svg', alt='', style='width: 60px')
-                .col
-                  h3.mb-0 Trámites legales para ejercer el comercio
+
+          .titulo-tres.mt-4: h3 Trámites legales para ejercer el comercio
 
           p.mt-4 La propiedad, planta y equipo son activos que tienen apariencia física, los cuales se adquieren para el desarrollo del objeto social o actividad de esta. La propiedad, planta y equipo posee las siguientes características:
 
@@ -70,7 +64,7 @@
     #t_1_2.titulo-segundo.color-acento-contenido
       h2 1.2 Compra de propiedad, planta y equipo en moneda Local y moneda extranjera
 
-    .row.bg-t1-1
+    .row.bg-t1-1.a-m
       .col-12
         .p-5
           .row.justify-content-center.align-items-center
@@ -144,14 +138,8 @@
                     td.text-start Equipo de Comunicación
                     td 20.00 %
 
-          .row.ms-0.mt-4
-            .col-auto.bg-c3(data-aos="fade-left")
-              .row.align-items-center
-                .col-auto.px-0
-                  figure
-                    img(src='@/assets/curso/tema1/icon1.svg', alt='', style='width: 60px')
-                .col
-                  h3.mb-0 Tributario E. (2016) art. 137 Limitación a la deducción, Estatuto Tributario Nacional
+          
+    .titulo-tres: h3 Tributario E. (2016) art. 137 Limitación a la deducción, Estatuto Tributario Nacional
     
     p Sin embargo, según la norma internacional y la política contable definida por cada entidad los años de vida útil la establece la empresa, así mismo, el valor residual que es el valor recuperable una vez se haya depreciado totalmente el activo.
 
@@ -163,7 +151,8 @@
       .row
         .col-lg-5
           .titulo-sexto.color-acento-contenido.mb-3
-            span Tabla 2. Reconocimiento del activo de propiedad, planta y equipo
+            h5 Tabla 2.
+            span  Reconocimiento del activo de propiedad, planta y equipo
 
           .table-responsive
             table.table.table-bordered.bg-t1-5
@@ -188,7 +177,8 @@
                   td.bg-t1-8.text-end $78.750 
 
           .titulo-sexto.color-acento-contenido.mb-3
-            span Tabla 3. Costo estimado de desmantelamiento
+            h5 Tabla 3. 
+            span Costo estimado de desmantelamiento
 
           .table-responsive
             table.table.table-bordered
@@ -202,7 +192,8 @@
 
         .col-lg-7
           .titulo-sexto.color-acento-contenido.mb-3
-            span Tabla 4. Medición inicial del activo
+            h5 Tabla 4. 
+            span Medición inicial del activo
 
           .table-responsive
             table.table.table-bordered.bg-t1-6
@@ -245,7 +236,7 @@
     #t_1_3.titulo-segundo.color-acento-contenido
       h2 1.3 Ajuste de la diferencia en cambio
 
-    .row.bg-t1-1
+    .row.bg-t1-1.a-m
       .col-12
         .p-5
           .row.justify-content-center.align-items-center
@@ -264,7 +255,8 @@
 
             .col-lg-6
               .titulo-sexto.color-acento-contenido.mb-3
-                span Tabla 5. Medición inicial de maquinaria adquirida en el exterior
+                h5 Tabla 5. 
+                span Medición inicial de maquinaria adquirida en el exterior
 
               .table-responsive
                 table.table.table-bordered
@@ -282,7 +274,8 @@
               p.mt-2 El valor posterior de la máquina es de $18.750.000, se reconoce la diferencia en comparación con el costo inicial.
 
               .titulo-sexto.color-acento-contenido.mb-3
-                span Tabla 6. Reconocimiento de la diferencia en cambio
+                h5 Tabla 6. 
+                span Reconocimiento de la diferencia en cambio
 
               .table-responsive
                 table.table.table-bordered
@@ -323,7 +316,8 @@
 
             .col-lg-6
               .titulo-sexto.color-acento-contenido.mb-3
-                span Tabla 7. Reconocimiento del activo: construcción y terreno
+                h5 Tabla 7. 
+                span Reconocimiento del activo: construcción y terreno
 
               .table-responsive
                 table.table.table-bordered
@@ -341,7 +335,8 @@
               p.mt-2 El valor posterior de la máquina es de $18.750.000, se reconoce la diferencia en comparación con el costo inicial
 
               .titulo-sexto.color-acento-contenido.mb-3
-                span Tabla 8. Costo estimado de desmantelamiento
+                h5 Tabla 8. 
+                span Costo estimado de desmantelamiento
 
               .table-responsive
                 table.table.table-bordered
@@ -358,7 +353,8 @@
 
             .col-lg-6
               .titulo-sexto.color-acento-contenido.mb-3
-                span Tabla 9. Medición inicial del activo adquirido
+                h5 Tabla 9. 
+                span Medición inicial del activo adquirido
 
               .table-responsive
                 table.table.table-bordered.bg-t1-6
@@ -402,7 +398,8 @@
     .row.mt-4.justify-content-center
       .col-8
         .titulo-sexto.color-acento-contenido.mb-3
-          span Tabla 10. Cálculo de depreciación lineal para un activo con vida útil de 20 años
+          h5 Tabla 10. 
+          span Cálculo de depreciación lineal para un activo con vida útil de 20 años
 
         .table-responsive
           table.table.table-bordered.bg-t1-6
@@ -530,7 +527,7 @@
               p.text-small.mb-0.text-white El deterioro del valor o las pérdidas de los elementos de propiedades, planta y equipo son hechos separables de las reclamaciones de pagos o compensaciones de terceros, así como, de cualquier compra posterior o construcción de activos que reemplacen a los citados elementos, y por ello se contabilizarán de forma separada, por tal motivo lo invitamos a consultar el siguiente enlace.
 
             .col-sm-auto
-              a.boton.color-acento-botones(href="downloads/anexos/deterioroPPYE.pdf" target="_blank")
+              a.boton.color-acento-botones(href="downloads/anexos/Anexo_1_Deterioro_PPYE.pdf" target="_blank")
                 span.text-black Descargar
                 i.fas.fa-file-download.text-black
 
@@ -541,7 +538,8 @@
 
             .col-lg-6
               .titulo-sexto.color-acento-contenido.mb-3
-                span Tabla 11. Reconocimiento inicial del computador
+                h5 Tabla 11. 
+                span Reconocimiento inicial del computador
 
               .table-responsive
                 table.table.table-bordered
@@ -560,7 +558,8 @@
                       td.bg-t1-8.text-end $3.000.000
 
               .titulo-sexto.color-acento-contenido.mb-3
-                span Tabla 12. Cálculo de depreciación del computador (vida útil: 5 años)
+                h5 Tabla 12. 
+                span Cálculo de depreciación del computador (vida útil: 5 años)
 
               .table-responsive
                 table.table.table-bordered
@@ -623,7 +622,8 @@
               p.mt-4 Se hace ajuste en la depreciación por los periodos que faltan para terminar su vida útil.
 
               .titulo-sexto.color-acento-contenido.mb-3
-                span Tabla 13. Ajuste en la depreciación del activo por cambio en la vida útil o método
+                h5 Tabla 13. 
+                span Ajuste en la depreciación del activo por cambio en la vida útil o método
 
               .table-responsive
                 table.table.table-bordered
@@ -659,11 +659,13 @@
     #t_1_5.titulo-segundo.color-acento-contenido
       h2 1.5 Reconocimiento, medición, presentación y revelación
 
-    p.p-4.bg-t1-12 #[b Reconocimiento] al momento de reconocer un bien como propiedad, planta y equipo se debe identificar la definición del activo, es decir, que a futuro genere beneficios económicos de la utilización de este dentro de la empresa, además, debe cumplir con la condición de que el precio de ese activo es fiable. 
+    .row.p-4.bg-t1-12
+      p #[b Reconocimiento] al momento de reconocer un bien como propiedad, planta y equipo se debe identificar la definición del activo, es decir, que a futuro genere beneficios económicos de la utilización de este dentro de la empresa, además, debe cumplir con la condición de que el precio de ese activo es fiable. 
 
-    p.p-4.bg-t1-12 #[b Medición inicial] en los bienes de propiedad, planta y equipo se debe utilizar el criterio de medición al costo, en los cuales se debe tener presente no solo el valor de compra del activo, sino también, los aranceles de importación, impuestos no recuperables, transportes, asesorías, desmantelamiento y demás costos en los que se incurra para poner en funcionamiento el activo. 
+    .row.p-4.bg-t1-12.mt-4
+      p #[b Medición inicial] en los bienes de propiedad, planta y equipo se debe utilizar el criterio de medición al costo, en los cuales se debe tener presente no solo el valor de compra del activo, sino también, los aranceles de importación, impuestos no recuperables, transportes, asesorías, desmantelamiento y demás costos en los que se incurra para poner en funcionamiento el activo. 
 
-    .row.p-4.bg-t1-12.justify-content-center
+    .row.p-4.bg-t1-12.justify-content-center.mt-4
       p #[b Medición posterior] después de estar usando un bien y disminución de su vida útil se puede medir con los siguientes criterios: 
       .col-lg-11
         .row.p-5.bg-t1-13.justify-content-center
@@ -689,7 +691,8 @@
 
           .col-lg-6
             .titulo-sexto.color-acento-contenido.mb-3
-              span Tabla 14. Reconocimiento inicial de la máquina de coser
+              h5 Tabla 14. 
+              span Reconocimiento inicial de la máquina de coser
             .table-responsive
                 table.table.table-bordered
                   tbody
@@ -714,7 +717,8 @@
                       td.text-end $7.985.000
 
             .titulo-sexto.color-acento-contenido.mb-3
-              span  Tabla 15. Registro de depreciación al finalizar el año
+              h5  Tabla 15. 
+              span Registro de depreciación al finalizar el año
             .table-responsive
                 table.table.table-bordered
                   tbody
@@ -734,7 +738,8 @@
                       td.bg-t1-8.text-end $758.480
 
             .titulo-sexto.color-acento-contenido.mb-3
-              span  Tabla 16. Ajuste del costo por desmantelamiento
+              h5  Tabla 16. 
+              span Ajuste del costo por desmantelamiento
             .table-responsive
                 table.table.table-bordered
                   tbody
@@ -762,7 +767,8 @@
 
           .col-lg-8.mt-4
             .titulo-sexto.color-acento-contenido.mb-3
-              span Tabla 17. Registro del gasto por actualización de la provisión de desmantelamiento
+              h5 Tabla 17. 
+              span Registro del gasto por actualización de la provisión de desmantelamiento
 
             .table-responsive
               table.table.table-bordered
@@ -806,9 +812,18 @@
             figure(data-aos="fade-up")
               img(src='@/assets/curso/tema1/img9.png', alt='', style="width: 480px").m-auto
 
-          .table-responsive.mt-4
+          .titulo-sexto.color-acento-contenido.mt-4
+            h5 Tabla 18. 
+            span Registro del superávit por revaluación
+
+          .table-responsive
             table.table.table-bordered
               tbody
+                tr
+                  td.text-center(style="background-color: #F8D7B0 !important") #[b Código]
+                  td.text-center(style="background-color: #F8D7B0 !important") #[b Cuenta]
+                  td.text-center(style="background-color: #F8D7B0 !important") #[b Débito]
+                  td.text-center(style="background-color: #F8D7B0 !important") #[b Crédito]
                 tr
                   td 152001
                   td Máquina de coser
@@ -840,7 +855,7 @@
               p.text-small.mb-0.text-white Propiedad planta y equipo.
     
             .col-sm-auto
-              a.boton.color-acento-botones(href="downloads/anexos/31_ES_RedBV2016_IAS40_PartA.pdf" target="_blank")
+              a.boton.color-acento-botones(href="downloads/anexos/Anexo_2_Norma_NIC _40.pdf" target="_blank")
                 span.text-black Descargar
                 i.fas.fa-file-download.text-black
 

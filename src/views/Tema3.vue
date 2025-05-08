@@ -7,7 +7,7 @@
         span 3
       h1(data-aos="zoom-in") Activos Mantenidos para la Venta
 
-    .row.bg-t1-1
+    .row.bg-t1-1.a-m
       .col-12
         .p-5
           .row.align-items-center
@@ -43,7 +43,7 @@
     .row.bg-t1-12.p-5.mt-4
       p #[b Medición:]  una entidad medirá sus activos no corrientes mantenidos para la venta, al menor valor entre su valor en libros y su valor razonable, menos los gastos para ser vendidos. Es decir, se debe reclasificar al menor valor, además, los activos se deben presentar de manera separada en los estados financieros. Por último, es importante conocer que este tipo de activos el valor se recupera con la venta y no con su uso.
 
-      .row.justify-content-center.bg-t1-10.p-5.align-items-center
+      .row.justify-content-center.bg-t1-15.p-5.align-items-center
             
         p.mt-4 #[b Ejemplo:]
 
@@ -51,7 +51,8 @@
 
         .col-lg-7
           .titulo-sexto.color-acento-contenido.mb-3
-            span Tabla 23. Medición inicial del activo adquirido como inversión
+            h5 Tabla 25. 
+            span Medición inicial del activo adquirido como inversión
 
           .table-responsive
             table.table.table-bordered
@@ -78,7 +79,7 @@
     .row.bg-t1-12.p-5.mt-4
       p #[b Operaciones discontinuadas.] Son flujos u operaciones que se pueden distinguir claramente de otros flujos u operaciones, si estos se clasifican como mantenidos para la venta y se manejan como operaciones discontinuadas, es decir, aquellos activos de la entidad que han sido clasificados como mantenidos para la venta.
 
-      .row.justify-content-center.bg-t1-10.p-5.align-items-center
+      .row.justify-content-center.bg-t1-15.p-5.align-items-center
 
         .col-lg-8     
           p.mt-4 #[b Ejemplo:]
@@ -111,8 +112,8 @@
               p.text-small.mb-0.text-white activos mantenidos para la venta.
 
             .col-sm-auto
-              a.boton.color-acento-botones(href="http://www.aplicaciones-mcit.gov.co/adjuntos/niif/50%20ES_RedBV2016_IFRS05_PartA.pdf" target="_blank")
-                span.text-black Ver
+              a.boton.color-acento-botones(href="downloads/anexos/Anexo_5_Norma_NIIF_5.pdf" target="_blank")
+                span.text-black Descargar
                 i.fas.fa-file-download.text-black
 
       

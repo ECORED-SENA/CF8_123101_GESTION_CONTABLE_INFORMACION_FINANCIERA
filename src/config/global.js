@@ -3,7 +3,7 @@ export default {
     Name:
       'Reconocimiento de propiedad, planta y equipo, propiedades de inversión y activos mantenidos para la venta',
     Description:
-      'En este componente se desarrolla la unidad temática de Propiedad, Planta y Equipo o lo que denominamos en la normativa contable, “Bienes de Uso” o “Activos Fijos”. Estos, son indispensables para el funcionamiento de las organizaciones. Por lo tanto, se debe identificar las necesidades requeridas de los activos, sus características, objetivo, finalidad y normatividad vigente aplicable.',
+      'En este componente se desarrolla la unidad temática de propiedad, planta y equipo o lo que denominamos en la normativa contable, “bienes de uso” o “activos fijos”. Estos, son indispensables para el funcionamiento de las organizaciones. Por lo tanto, se debe identificar las necesidades requeridas de los activos, sus características, objetivo, finalidad y normatividad vigente aplicable.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.jpg'),
     imagenesDecorativasBanner: [
@@ -37,7 +37,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Propiedad Planta y Equipo',
+        titulo: 'Propiedad planta y equipo',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -72,7 +72,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Propiedades de Inversión',
+        titulo: 'Propiedades de inversión',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -90,7 +90,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Activos Mantenidos para la Venta',
+        titulo: 'Activos mantenidos para la venta',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -181,7 +181,7 @@ export default {
     {
       termino: 'Activos mantenidos para la venta',
       significado:
-        'Son aquellos bienes que adquiere la empresa con la finalidad de desprenderse de los mismo, a través de la venta.',
+        'Son aquellos bienes que adquiere la empresa con la finalidad de desprenderse de los mismos, a través de la venta.',
     },
     {
       termino: 'Activos de uso',

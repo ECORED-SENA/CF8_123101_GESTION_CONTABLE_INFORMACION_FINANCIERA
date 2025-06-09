@@ -5,14 +5,14 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1(data-aos="zoom-in") Propiedad Planta y Equipo
+      h1(data-aos="zoom-in") Propiedad planta y equipo
 
     .row.bg-t1-1
       .col-12
         .p-5
           .row.justify-content-center.align-items-center
             .col-lg-8
-              p.p-4.bg-t1-2(data-aos="fade-left") La propiedad, planta Y equipo son bienes que poseen las empresas para su uso diario y con los cuales cuentan para realizar las actividades correspondientes al objeto social. Por otro lado, es importante hacer referencia a las políticas contables de la empresa, que son los procedimientos o reglas a tener en cuenta por cada criterio generado, en este caso el reconocimiento, medición, presentación y revelación de propiedad, planta y equipo. 
+              p.p-4.bg-t1-2(data-aos="fade-left") La propiedad, planta y equipo son bienes que poseen las empresas para su uso diario y con los cuales cuentan para realizar las actividades correspondientes al objeto social. Por otro lado, es importante hacer referencia a las políticas contables de la empresa, que son los procedimientos o reglas a tener en cuenta por cada criterio generado, en este caso el reconocimiento, medición, presentación y revelación de propiedad, planta y equipo. 
             .col-lg-4.d-none.d-lg-block 
               figure(data-aos="fade-up")
                 img(src='@/assets/curso/tema1/img1.png', alt='', style="width: 406px").m-auto
@@ -43,7 +43,7 @@
 
                 li.d-flex
                   i.bg-icon-ul
-                  p.mb-0.ms-2 De acuerdo con la generación de flujos de caja, se clasifica en: propiedad, planta y equipo (NIC 16), propiedades de inversión (NIC 40) y Activos fijos para la venta (NIIF 5).
+                  p.mb-0.ms-2 De acuerdo con la generación de flujos de caja, se clasifica en: propiedad, planta y equipo (NIC 16), propiedades de inversión (NIC 40) y activos fijos para la venta (NIIF 5).
 
             .col-lg-5.d-none.d-lg-block 
               figure(data-aos="zoom-in")
@@ -62,7 +62,7 @@
 
     separador
     #t_1_2.titulo-segundo.color-acento-contenido
-      h2 1.2 Compra de propiedad, planta y equipo en moneda Local y moneda extranjera
+      h2 1.2 Compra de propiedad, planta y equipo en moneda local y moneda extranjera
 
     .row.bg-t1-1.a-m
       .col-12
@@ -82,62 +82,62 @@
               .titulo-sexto.color-acento-contenido.mb-3
                 h5 Tabla 1.
                 span Tasas de depreciación fiscal anual por tipo de bien  
-
-              table
-                thead
-                  tr(style="background-color: #FED6A8")
-                    th Conceptos de bienes a depreciar
-                    th Tasa de depreciación fiscal anual %
-                tbody
-                  tr(style="background-color: #FFF")
-                    td.text-start Construcciones y edificaciones
-                    td 2.22 %
-                  tr(style="background-color: #F6F6F6")
-                    td.text-start Acueducto, planta y redes
-                    td 2.50 %
-                  tr(style="background-color: #FFF")
-                    td.text-start Vías de comunicación
-                    td 2.50 %
-                  tr(style="background-color: #F6F6F6")
-                    td.text-start Flota y equipo aéreo
-                    td 3.33 %
-                  tr(style="background-color: #FFF")
-                    td.text-start Flota y equipo férreo
-                    td 5.00 %
-                  tr(style="background-color: #F6F6F6")
-                    td.text-start Flota y equipo fluvial
-                    td 6.67 %
-                  tr(style="background-color: #FFF")
-                    td.text-start Armamento y equipo de vigilancia
-                    td 10.00 %
-                  tr(style="background-color: #F6F6F6")
-                    td.text-start Equipo eléctrico
-                    td 10.00 %
-                  tr(style="background-color: #FFF")
-                    td.text-start Flota y equipo de transporte terrestre
-                    td 10.00 %
-                  tr(style="background-color: #F6F6F6")
-                    td.text-start Maquinaria, equipos 
-                    td 10.00 %
-                  tr(style="background-color: #FFF")
-                    td.text-start Muebles y Enseres
-                    td 10.00 %
-                  tr(style="background-color: #F6F6F6")
-                    td.text-start Equipo Médico Científico
-                    td 12.50 %
-                  tr(style="background-color: #FFF")
-                    td.text-start Envases, empaques y herramientas
-                    td 20.00 %
-                  tr(style="background-color: #F6F6F6")
-                    td.text-start Equipo de computación
-                    td 20.00 %
-                  tr(style="background-color: #FFF")
-                    td.text-start  Redes de procesamiento de datos
-                    td 20.00 %
-                  tr(style="background-color: #F6F6F6")
-                    td.text-start Equipo de Comunicación
-                    td 20.00 %
-
+              
+              .table-responsive
+                table.table-bordered
+                  thead
+                    tr(style="background-color: #FED6A8")
+                      th Conceptos de bienes a depreciar
+                      th Tasa de depreciación fiscal anual %
+                  tbody
+                    tr(style="background-color: #FFF")
+                      td.text-start Construcciones y edificaciones
+                      td 2.22 %
+                    tr(style="background-color: #F6F6F6")
+                      td.text-start Acueducto, planta y redes
+                      td 2.50 %
+                    tr(style="background-color: #FFF")
+                      td.text-start Vías de comunicación
+                      td 2.50 %
+                    tr(style="background-color: #F6F6F6")
+                      td.text-start Flota y equipo aéreo
+                      td 3.33 %
+                    tr(style="background-color: #FFF")
+                      td.text-start Flota y equipo férreo
+                      td 5.00 %
+                    tr(style="background-color: #F6F6F6")
+                      td.text-start Flota y equipo fluvial
+                      td 6.67 %
+                    tr(style="background-color: #FFF")
+                      td.text-start Armamento y equipo de vigilancia
+                      td 10.00 %
+                    tr(style="background-color: #F6F6F6")
+                      td.text-start Equipo eléctrico
+                      td 10.00 %
+                    tr(style="background-color: #FFF")
+                      td.text-start Flota y equipo de transporte terrestre
+                      td 10.00 %
+                    tr(style="background-color: #F6F6F6")
+                      td.text-start Maquinaria, equipos 
+                      td 10.00 %
+                    tr(style="background-color: #FFF")
+                      td.text-start Muebles y enseres
+                      td 10.00 %
+                    tr(style="background-color: #F6F6F6")
+                      td.text-start Equipo médico científico
+                      td 12.50 %
+                    tr(style="background-color: #FFF")
+                      td.text-start Envases, empaques y herramientas
+                      td 20.00 %
+                    tr(style="background-color: #F6F6F6")
+                      td.text-start Equipo de computación
+                      td 20.00 %
+                    tr(style="background-color: #FFF")
+                      td.text-start  Redes de procesamiento de datos
+                      td 20.00 %
+                    tr(style="background-color: #F6F6F6")
+                      td.text-start Equipo de comunicación
+                      td 20.00 %
           
     .titulo-tres: h3 Tributario E. (2016) art. 137 Limitación a la deducción, Estatuto Tributario Nacional
     
@@ -157,8 +157,6 @@
           .table-responsive
             table.table.table-bordered.bg-t1-5
               thead
-                tr
-                  th.text-center(colspan="2") RECONOCIMIENTO
                 tr
                   th.text-center Concepto
                   th.text-center Valor
@@ -197,15 +195,12 @@
 
           .table-responsive
             table.table.table-bordered.bg-t1-6
-              thead
-                tr
-                  th.text-center(colspan="4") MEDICIÓN INICIAL
               tbody
                 tr
-                  td.bg-t1-7.text-center #[b CÓDIGO]
-                  td.bg-t1-7.text-center  #[b Cuenta ]
-                  td.bg-t1-7.text-center  #[b Debe ]
-                  td.bg-t1-7.text-center  #[b Crédito ]
+                  td.bg-t1-7.text-center #[b Código]
+                  td.bg-t1-7.text-center  #[b Cuenta]
+                  td.bg-t1-7.text-center  #[b Debe]
+                  td.bg-t1-7.text-center  #[b Crédito]
                 tr
                   td 152001
                   td Maquinaria y equipo
@@ -243,7 +238,7 @@
             .col-lg-8.p-4.bg-t1-2(data-aos="fade-left")
               p Cuando se compra una propiedad, planta y equipo en moneda extranjera, se debe tener en cuenta el criterio de medición implementado. Teniendo en cuenta que se reconoce el costo en el momento de la transacción, es allí, donde se realiza la conversión a la moneda funcional.
 
-              p Si el activo se reconoce a valor razonable, se presentaría variación de la moneda, por lo que, al cierre del periodo contable, se debe hacer el ajuste de la diferencia en cambio. Si se presenta aumento del valor de la moneda es una valorización y si sufre una disminución en deterioro, el cual se presenta como un gasto en los Estados Financieros. 
+              p Si el activo se reconoce a valor razonable, se presentaría variación de la moneda, por lo que, al cierre del periodo contable, se debe hacer el ajuste de la diferencia en cambio. Si se presenta aumento del valor de la moneda es una valorización y si sufre una disminución en deterioro, el cual se presenta como un gasto en los estados financieros. 
             .col-lg-4.d-none.d-lg-block
               figure(data-aos="fade-up")
                 img(src='@/assets/curso/tema1/img4.png', alt='', style="width: 480px").m-auto
@@ -303,7 +298,7 @@
         .p-5
           .row.justify-content-center.align-items-center
             .col-lg-8.p-4.bg-t1-2(data-aos="fade-down")
-              p El desmantelamiento o retiro es una provisión que se hace al momento de la medición inicial, que es lo que cuesta soltar las piezas de una máquina, derribar un edificio o una construcción en un futuro cuando se termine su vida útil. Esto hace referencia a la Rehabilitación del lugar donde se usó el activo, dejando nuevamente habilitado el espacio para construir o instalar una nueva máquina, generando un costo para la empresa, el cual debe reconocerse contablemente. En el siguiente caso se puede observar el cálculo del valor.
+              p El desmantelamiento o retiro es una provisión que se hace al momento de la medición inicial, que es lo que cuesta soltar las piezas de una máquina, derribar un edificio o una construcción en un futuro cuando se termine su vida útil. Esto hace referencia a la rehabilitación del lugar donde se usó el activo, dejando nuevamente habilitado el espacio para construir o instalar una nueva máquina, generando un costo para la empresa, el cual debe reconocerse contablemente. En el siguiente caso se puede observar el cálculo del valor.
 
             .col-lg-4.d-none.d-lg-block
               figure(data-aos="zoom-in")
@@ -660,19 +655,19 @@
       h2 1.5 Reconocimiento, medición, presentación y revelación
 
     .row.p-4.bg-t1-12
-      p #[b Reconocimiento] al momento de reconocer un bien como propiedad, planta y equipo se debe identificar la definición del activo, es decir, que a futuro genere beneficios económicos de la utilización de este dentro de la empresa, además, debe cumplir con la condición de que el precio de ese activo es fiable. 
+      p #[b Reconocimiento:] al momento de reconocer un bien como propiedad, planta y equipo se debe identificar la definición del activo, es decir, que a futuro genere beneficios económicos de la utilización de este dentro de la empresa, además, debe cumplir con la condición de que el precio de ese activo es fiable. 
 
     .row.p-4.bg-t1-12.mt-4
-      p #[b Medición inicial] en los bienes de propiedad, planta y equipo se debe utilizar el criterio de medición al costo, en los cuales se debe tener presente no solo el valor de compra del activo, sino también, los aranceles de importación, impuestos no recuperables, transportes, asesorías, desmantelamiento y demás costos en los que se incurra para poner en funcionamiento el activo. 
+      p #[b Medición inicial:] en los bienes de propiedad, planta y equipo se debe utilizar el criterio de medición al costo, en los cuales se debe tener presente no solo el valor de compra del activo, sino también, los aranceles de importación, impuestos no recuperables, transportes, asesorías, desmantelamiento y demás costos en los que se incurra para poner en funcionamiento el activo. 
 
     .row.p-4.bg-t1-12.justify-content-center.mt-4
-      p #[b Medición posterior] después de estar usando un bien y disminución de su vida útil se puede medir con los siguientes criterios: 
+      p #[b Medición posterior:] después de estar usando un bien y disminución de su vida útil se puede medir con los siguientes criterios: 
       .col-lg-11
         .row.p-5.bg-t1-13.justify-content-center
           p
           p.mt-4 #[b Modelo del costo:] este modelo consiste en disminuir del costo inicial el valor de la depreciación acumula, así como, el valor por deterioro si lo hay, en el monumento de cierre del periodo.
 
-          p #[b Ejemplo:] La empresa TRAPITOS S.A., el día primero de marzo compra una máquina de coser por valor de $6.500.000, adicionalmente se canceló servicio de transporte por $250.000, se estima un desmantelamiento en 10 años por valor de $2.000.000 a una tasa de 6 % EA
+          p #[b Ejemplo:] la empresa TRAPITOS S.A., el día primero de marzo compra una máquina de coser por valor de $6.500.000, adicionalmente se canceló servicio de transporte por $250.000, se estima un desmantelamiento en 10 años por valor de $2.000.000 a una tasa de 6 % EA
 
           .col-lg-4
             .row.bg-t1-9.p-4 
@@ -734,7 +729,7 @@
 
                     tr
                       td.bg-t1-8 159220
-                      td.bg-t1-8.text-start Dep Acumulada
+                      td.bg-t1-8.text-start Depreciación Acumulada
                       td.bg-t1-8.text-end $758.480
 
             .titulo-sexto.color-acento-contenido.mb-3
@@ -752,11 +747,11 @@
                       td.text-center 6,00 %
 
                     tr
-                      td.bg-t1-8 Tasa Nominal
+                      td.bg-t1-8 Tasa nominal
                       td.bg-t1-8.text-center 5,84 %
 
                     tr
-                      td Tasa Mensual
+                      td Tasa mensual
                       td.text-center 0,487 %
 
             .row.bg-t1-9.p-4 
@@ -797,7 +792,8 @@
           p.mt-4 #[b Modelo de revaluación:] cuando un activo es reconocido un valor razonable y varía el precio de este, se revalúa tomando el valor razonable menos la depreciación y deterioros que se presentaron, este modelo se debe estar aplicando constantemente para que la información contable sea fiable y oportuna. 
 
           .col-lg-8 
-            .row.bg-t1-9.p-4 
+            .row.bg-t1-9.p-4
+              p #[b Ejemplo:]
               p.mb-0 Costo de adquisición - depreciación acumulada = valor en libros 
               p.mb-0 $6.500.000   -   $758.480 = $5.741.520 
               p.mb-0 Valorización con respecto al costo histórico
@@ -837,7 +833,7 @@
 
                 tr
                   td 429501
-                  td Superávit de Revaluación
+                  td Superávit de revaluación
                   td.text-end -
                   td.text-end $2.236.614
 

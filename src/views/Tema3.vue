@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1(data-aos="zoom-in") Activos Mantenidos para la Venta
+      h1(data-aos="zoom-in") Activos mantenidos para la venta
 
     .row.bg-t1-1.a-m
       .col-12

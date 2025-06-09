@@ -20,7 +20,7 @@ export default {
       tema: 'Reconocimiento contable de propiedades, planta y equipo',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Identificar los conceptos clave relacionados con el reconocimiento, medición, presentación y revelación contable de propiedades, planta y equipo, propiedades de inversión y activos mantenidos para la venta conforme a la normativa vigente.',
+        '<b> Objetivo:</b> identificar los conceptos clave relacionados con el reconocimiento, medición, presentación y revelación contable de propiedades, planta y equipo, propiedades de inversión y activos mantenidos para la venta conforme a la normativa vigente.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!..',
       titulo_reprobado: 'VUELVA A INTENTARLO..',

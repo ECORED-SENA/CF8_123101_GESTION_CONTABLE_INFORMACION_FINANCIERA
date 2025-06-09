@@ -5,11 +5,11 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1(data-aos="zoom-in") Propiedades de Inversión 
+      h1(data-aos="zoom-in") Propiedades de inversión 
 
     .row.align-items-center
       .col-lg-8
-        p.p-4.bg-t1-2(data-aos="zoom-in") Son activos de los cuales se espera obtener rendimientos a futuro, generando ingresos no operacionales para la empresa, como son el arriendo de los terrenos, edificios, casas, locales, entre otros. De estos, se obtiene una contraprestación en dinero que incrementa la economía de los propietarios; además, el terreno se valoriza. Por ende, a largo plazo, se obtiene una utilidad cuando el activo es vendido. Por esto, la importancia que revisten las inversiones, no solo en las empresas, sino también, en las personas naturales, que. para muchos es su actividad diaria igualmente, algunas personas piensan que invertir es un riesgo, aunque en realidad es una oportunidad para crecer financieramente. 
+        p.p-4.bg-t1-2(data-aos="zoom-in") Son activos de los cuales se espera obtener rendimientos a futuro, generando ingresos no operacionales para la empresa, como son el arriendo de los terrenos, edificios, casas, locales, entre otros. De estos, se obtiene una contraprestación en dinero que incrementa la economía de los propietarios; además, el terreno se valoriza. Por ende, a largo plazo, se obtiene una utilidad cuando el activo es vendido. Por esto, la importancia que revisten las inversiones, no solo en las empresas, sino también, en las personas naturales, que. Para muchos es su actividad diaria igualmente, algunas personas piensan que invertir es un riesgo, aunque en realidad es una oportunidad para crecer financieramente. 
       .col-lg-4.d-none.d-lg-block
         figure(data-aos="fade-up")
           img(src='@/assets/curso/tema2/img1.png', alt='', style="width: 295px").m-auto
@@ -38,8 +38,6 @@
             .col-lg-8
               p.p-4.bg-t1-10(data-aos="fade-left") La medición inicial se realiza aplicando el modelo del costo y en la medición posterior se efectúa a valor razonable, con cambios en el resultado, que afectan la utilidad del ejercicio. Sin embargo, en las propiedades de inversión se puede establecer en la política contable el criterio de medición al costo en casos específicos donde sea imposible medir a valor razonable. Es importante hacer referencia a que la norma solicita que todas las entidades midan a valor razonable, sin embargo, esto no es una obligación, pero sí se debe tener presente el mejor criterio que beneficie a la entidad. Por último, se debe tener en cuenta que, al momento de vender una propiedad de inversión, se reconoce a valor razonable, sin importar el criterio de medición establecido para la empresa.
 
-          .titulo-tres.mt-4: h3 Deterioro de propiedad de inversión
-
           .tarjeta.bg-t1-11.p-4.mt-4
             .row.justify-content-around.align-items-center
               .col-auto
@@ -48,7 +46,7 @@
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
                     h4.mb-1(style="color: #FD9826 !important") Deterioro de propiedad de inversión 
-                    p.text-small.mb-0.text-white El deterioro de valor de una propiedad de inversión hace referencia a la pérdida de dinero que puede presentar el bien por eventos imprevistos, disminuyendo el valor de este en la contabilidad.
+                    p.mb-0.text-white El deterioro de valor de una propiedad de inversión hace referencia a la pérdida de dinero que puede presentar el bien por eventos imprevistos, disminuyendo el valor de este en la contabilidad.
 
                   .col-sm-auto
                     a.boton.color-acento-botones(href="downloads/anexos/Anexo_3_Deterioro_PPI.pdf" target="_blank")

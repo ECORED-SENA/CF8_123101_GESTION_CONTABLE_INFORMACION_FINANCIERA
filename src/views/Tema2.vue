@@ -9,7 +9,7 @@
 
     .row.align-items-center
       .col-lg-8
-        p.p-4.bg-t1-2(data-aos="zoom-in") Son activos de los cuales se espera obtener rendimientos a futuro, generando ingresos no operacionales para la empresa, como son el arriendo de los terrenos, edificios, casas, locales, entre otros. De estos, se obtiene una contraprestación en dinero que incrementa la economía de los propietarios; además, el terreno se valoriza. Por ende, a largo plazo, se obtiene una utilidad cuando el activo es vendido. Por esto, la importancia que revisten las inversiones, no solo en las empresas, sino también, en las personas naturales, que. Para muchos es su actividad diaria igualmente, algunas personas piensan que invertir es un riesgo, aunque en realidad es una oportunidad para crecer financieramente. 
+        p.p-4.bg-t1-2(data-aos="zoom-in") Son activos de los cuales se espera obtener rendimientos a futuro, generando ingresos no operacionales para la empresa, como son el arriendo de los terrenos, edificios, casas, locales, entre otros. De estos, se obtiene una contraprestación en dinero que incrementa la economía de los propietarios; además, el terreno se valoriza. Por ende, a largo plazo, se obtiene una utilidad cuando el activo es vendido. Por esto, la importancia que revisten las inversiones, no solo en las empresas, sino también, en las personas naturales, que para muchos es su actividad diaria igualmente, algunas personas piensan que invertir es un riesgo, aunque en realidad es una oportunidad para crecer financieramente. 
       .col-lg-4.d-none.d-lg-block
         figure(data-aos="fade-up")
           img(src='@/assets/curso/tema2/img1.png', alt='', style="width: 295px").m-auto
@@ -216,7 +216,7 @@
                     td.bg-t1-8.text-end $78.750 
                   tr
                     td 233505
-                    td Costos y Gastos por Pagar  
+                    td Costos y gastos por pagar  
                     td.text-end -
                     td.text-end $50.000.000 
 

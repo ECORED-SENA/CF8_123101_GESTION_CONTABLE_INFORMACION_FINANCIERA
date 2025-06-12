@@ -42,7 +42,7 @@ export default {
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Política contable PPYE',
+            titulo: 'Política Contable PPYE',
             hash: 't_1_1',
           },
           {

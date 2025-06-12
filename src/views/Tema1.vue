@@ -53,7 +53,7 @@
 
     separador
     #t_1_1.titulo-segundo.color-acento-contenido
-      h2 1.1  Política contable PPYE
+      h2 1.1  Política Contable PPYE
 
     p La propiedad, planta y equipo (PPYE) se reconoce por su costo inicial, el cual incluye todos los desembolsos necesarios para poner el activo en condiciones de uso. Posteriormente, se mide al costo menos la depreciación acumulada y cualquier pérdida por deterioro. La depreciación se calcula de forma sistemática según la vida útil estimada de cada activo. Estos se dan de baja del balance cuando se venden, reemplazan o dejan de generar beneficios económicos.
 
@@ -698,7 +698,7 @@
 
                     tr
                       td 299501
-                      td.text-start Máquina de Coser 
+                      td.text-start Máquina de coser 
                       td.text-end $9.101.790
 
                     tr
@@ -708,7 +708,7 @@
 
                     tr
                       td 233505
-                      td.text-start Costos por Pagar
+                      td.text-start Costos por pagar
                       td.text-end $7.985.000
 
             .titulo-sexto.color-acento-contenido.mb-3

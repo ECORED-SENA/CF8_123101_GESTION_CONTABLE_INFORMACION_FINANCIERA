@@ -22,8 +22,8 @@ export default {
       introduccion:
         '<b> Objetivo:</b> identificar los conceptos clave relacionados con el reconocimiento, medición, presentación y revelación contable de propiedades, planta y equipo, propiedades de inversión y activos mantenidos para la venta conforme a la normativa vigente.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!..',
-      titulo_reprobado: 'VUELVA A INTENTARLO..',
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
           id: 1,
@@ -61,7 +61,7 @@ export default {
           id: 2,
           texto:
             '¿Qué norma contable regula el tratamiento de las propiedades, planta y equipo?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -92,7 +92,7 @@ export default {
           id: 3,
           texto:
             '¿Cuál es el modelo de medición posterior que utiliza el valor razonable menos la depreciación o deterioro?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -123,7 +123,7 @@ export default {
           id: 4,
           texto:
             '¿Según la NIC 16, ¿qué elementos deben considerarse en la medición inicial de un activo?',
-          imagen: require('@/assets/actividad/imagen1.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -155,7 +155,7 @@ export default {
           id: 5,
           texto:
             '¿Qué sucede con un activo clasificado como mantenido para la venta según la NIIF 5?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -217,27 +217,27 @@ export default {
           id: 7,
           texto:
             '¿Qué tasa de depreciación fiscal anual aplica para construcciones y edificaciones en Colombia?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: '3.33%',
+              texto: '3.33 %',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: '2.22%',
+              texto: '2.22 %',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: '10.00%',
+              texto: '10.00 %',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: '5.00%',
+              texto: '5.00 %',
               esCorrecta: false,
             },
           ],
@@ -247,7 +247,7 @@ export default {
         {
           id: 8,
           texto: '¿Qué se entiende por deterioro en contabilidad?',
-          imagen: require('@/assets/actividad/imagen2.png'),
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -278,7 +278,7 @@ export default {
           id: 9,
           texto:
             '¿Cuál es el objetivo principal de las propiedades de inversión?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -310,7 +310,7 @@ export default {
           id: 10,
           texto:
             '¿Qué condición debe cumplir un activo para ser clasificado como mantenido para la venta?',
-          imagen: require('@/assets/actividad/imagen3.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -363,7 +363,7 @@ export default {
           id: 12,
           texto:
             'La política contable define cómo se reconocen y miden los activos en una empresa.',
-          imagen: "require('@/assets/actividad/imagen12.png')",
+          imagen: "require('@/assets/actividad/imagen4.png')",
           barajarRespuestas: true,
           opciones: [
             {
@@ -384,7 +384,7 @@ export default {
           id: 13,
           texto:
             'El deterioro de una propiedad de inversión debe reconocerse de forma separada al resto del activo.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -405,7 +405,7 @@ export default {
           id: 14,
           texto:
             'Todos los activos mantenidos para la venta deben continuar depreciándose hasta su venta.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -426,7 +426,7 @@ export default {
           id: 15,
           texto:
             'El modelo de revaluación exige aplicar ajustes con suficiente regularidad para mantener información fiable.',
-          imagen: require('@/assets/actividad/imagen4.png'),
+          imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {

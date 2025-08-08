@@ -363,7 +363,7 @@ export default {
           id: 12,
           texto:
             'La política contable define cómo se reconocen y miden los activos en una empresa.',
-          imagen: "require('@/assets/actividad/imagen4.png')",
+          imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
